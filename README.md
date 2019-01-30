@@ -2,7 +2,7 @@
 
 Blueprint & C++
 
-Ue4.19 --- Must be 4.19 for ocean plugin
+Ue4.19 --- Must be 4.19.2 for ocean plugin
 
 3D Turtle Simulator Game
 
@@ -17,7 +17,14 @@ Ue4.19 --- Must be 4.19 for ocean plugin
    
    Clone this repo -- Uasset files are stored using Git lfs
    
-   Click TRTL_Simulator.uproject and Unreal engine will build the relative files and open
+   Right click TRTL_Simulator.uproject and select Switch Unreal engine version.  set to 4.19.2
+   
+   Open Trtl_simulator  
+   
+   click YES to load 'Loading Screen plugin' 
+   
+  Unreal engine should start to build your project.
+   
    
    Check out my youtube for a walk-through of the project:
    
