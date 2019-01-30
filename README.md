@@ -23,15 +23,15 @@ Ue4.19 --- Must be 4.19 for ocean plugin
    
    **INSERT LINK**
 
-Plugins (included in repo)
+**Plugins (included in repo)**
 
- Community Ocean Plugin: https://github.com/UE4-OceanProject/OceanProject
+      Community Ocean Plugin: https://github.com/UE4-OceanProject/OceanProject
  
- Loading bar Plugin:  https://github.com/ue4plugins/LoadingScreen
+      Loading bar Plugin:  https://github.com/ue4plugins/LoadingScreen
  
  
  
- Current Mechanix:
+ **Current Mechanix:**
  
  Single player
  Walk / Swim
