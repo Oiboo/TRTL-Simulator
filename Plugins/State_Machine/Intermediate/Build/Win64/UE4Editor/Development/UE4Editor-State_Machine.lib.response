@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-State_Machine.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\oiboo\Documents\Unreal Projects\Trtl_Simulator\Plugins\State_Machine\Intermediate\Build\Win64\UE4Editor\Development\State_Machine\Module.State_Machine.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\State_Machine\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\oiboo\Documents\Unreal Projects\Trtl_Simulator\Plugins\State_Machine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-State_Machine.lib"

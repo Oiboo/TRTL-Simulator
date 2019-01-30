@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "State_Machine",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Oiboo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "State_Machine",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}

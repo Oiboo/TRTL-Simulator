@@ -1,0 +1,1009 @@
+﻿Log file open, 09/14/18 18:14:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Trtl_Simulator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1976811280) SRandInit(1976811280).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279859
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Warning: Plugin 'LoadingScreen' is not compatible with the current engine version (4.16.0)
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LoadingScreen
+LogPluginManager: Mounting plugin OceanPlugin
+LogStreaming: Display: Took  5.328s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Binaries/Win64/UE4Editor-Trtl_Simulator.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Plugins/LoadingScreen-master/Binaries/Win64/UE4Editor-LoadingScreen.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Plugins/OceanPlugin/Binaries/Win64/UE4Editor-OceanPlugin.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5H3L3GT (192.168.1.206:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.14-17.14.07:486][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-17.14.07:486][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.14-17.14.07:499][  0]LogInit: Computer: DESKTOP-5H3L3GT
+[2018.09.14-17.14.07:499][  0]LogInit: User: oiboo
+[2018.09.14-17.14.07:499][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.14-17.14.07:499][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.09.14-17.14.07:500][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.09.14-17.14.07:500][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.14-17.14.07:500][  0]LogMemory: Process Physical Memory: 279.43 MB used, 279.43 MB peak
+[2018.09.14-17.14.07:500][  0]LogMemory: Process Virtual Memory: 265.47 MB used, 265.47 MB peak
+[2018.09.14-17.14.07:500][  0]LogMemory: Physical Memory: 5191.21 MB used,  19323.13 MB free, 24514.34 MB total
+[2018.09.14-17.14.07:500][  0]LogMemory: Virtual Memory: 4838.88 MB used,  19323.13 MB free, 134217728.00 MB total
+[2018.09.14-17.14.07:522][  0]LogInit: Using OS detected language (en-GB).
+[2018.09.14-17.14.07:522][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.14-17.14.07:525][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.09.14-17.14.07:966][  0]LogStreaming: Display: Took  0.444s to EndInitTextLocalization.
+[2018.09.14-17.14.07:966][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.14-17.14.08:000][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.14-17.14.08:000][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.14-17.14.08:186][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.14-17.14.08:243][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.09.14-17.14.08:243][  0]LogD3D11RHI:       4053/0/12257 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.14-17.14.08:245][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.14-17.14.08:245][  0]LogD3D11RHI:       0/0/12257 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.14-17.14.08:245][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.14-17.14.08:251][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.14-17.14.08:251][  0]LogD3D11RHI:     GPU DeviceId: 0x1617 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.14-17.14.08:251][  0]LogWindows: EnumDisplayDevices:
+[2018.09.14-17.14.08:251][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2018.09.14-17.14.08:252][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.09.14-17.14.08:252][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.09.14-17.14.08:252][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.09.14-17.14.08:252][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.14-17.14.08:252][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.09.14-17.14.08:252][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.14-17.14.08:252][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.14-17.14.08:252][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.09.14-17.14.08:290][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.14-17.14.08:290][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.14-17.14.08:290][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.14-17.14.08:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.14-17.14.08:395][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Intermediate/Shaders/WorkingDirectory/8368/).
+[2018.09.14-17.14.08:395][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oiboo/AppData/Local/Temp/UnrealShaderWorkingDir/1C54CD3741B3CC8D7C87409F29388876/'.
+[2018.09.14-17.14.08:670][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.14-17.14.08:686][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.14-17.14.08:700][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.14-17.14.08:715][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.14-17.14.08:731][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.14-17.14.08:745][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.14-17.14.08:759][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.14-17.14.08:775][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.14-17.14.08:782][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.14-17.14.08:794][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.14-17.14.08:808][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.14-17.14.08:821][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.14-17.14.08:835][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.14-17.14.08:848][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.14-17.14.08:860][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.14-17.14.08:888][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.14-17.14.08:888][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.14-17.14.08:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-17.14.08:903][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.14-17.14.08:941][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-17.14.08:954][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-17.14.08:971][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.14-17.14.08:987][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.14-17.14.09:002][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.14-17.14.09:014][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.14-17.14.09:014][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.14-17.14.09:128][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.14-17.14.09:128][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.14-17.14.09:128][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.14-17.14.09:825][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.14-17.14.09:895][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/oiboo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.14-17.14.09:895][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oiboo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.14-17.14.09:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.14-17.14.09:895][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.14-17.14.09:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.14-17.14.09:895][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.14-17.14.09:912][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.14-17.14.09:925][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oiboo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.14-17.14.09:925][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.14-17.14.09:925][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.14-17.14.09:938][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.14-17.14.09:939][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.14-17.14.09:939][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.14-17.14.09:939][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.14-17.14.10:054][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.09.14-17.14.10:357][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-17.14.10:508][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.14-17.14.10:511][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.14-17.14.10:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.14-17.14.10:511][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.14-17.14.10:511][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.14-17.14.10:511][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.14-17.14.10:546][  0]LogNetVersion: Trtl_Simulator , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2897369352)
+[2018.09.14-17.14.11:053][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.093698 seconds
+[2018.09.14-17.14.11:058][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.14-17.14.11:058][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.14-17.14.11:058][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.14-17.14.12:731][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.14-17.14.12:759][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.14-17.14.13:128][  0]SourceControl: Source control is disabled
+[2018.09.14-17.14.13:128][  0]SourceControl: Source control is disabled
+[2018.09.14-17.14.13:143][  0]SourceControl: Source control is disabled
+[2018.09.14-17.14.13:158][  0]SourceControl: Source control is disabled
+[2018.09.14-17.14.13:585][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.14-17.14.13:724][  0]LogOcInput: OculusInput pre-init called
+[2018.09.14-17.14.13:845][  0]LogEngine: Initializing Engine...
+[2018.09.14-17.14.13:846][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.14-17.14.13:847][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-17.14.13:847][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-17.14.14:089][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.14-17.14.14:111][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.09.14-17.14.14:162][  0]LogInit: FAudioDevice initialized.
+[2018.09.14-17.14.14:212][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/oiboo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.14-17.14.14:254][  0]LogInit: Texture streaming: Enabled
+[2018.09.14-17.14.14:277][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.14-17.14.14:289][  0]LogInit: Transaction tracking system initialized
+[2018.09.14-17.14.14:310][  0]BlueprintLog: New page: Editor Load
+[2018.09.14-17.14.14:379][  0]LocalizationService: Localization service is disabled
+[2018.09.14-17.14.14:474][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a0849960, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.09.14-17.14.14:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a0849960, Size=88
+[2018.09.14-17.14.14:477][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a0849960, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.09.14-17.14.14:479][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a04cf380, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.09.14-17.14.14:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a08490c0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.09.14-17.14.14:522][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a08490c0, Size=88
+[2018.09.14-17.14.14:522][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a08490c0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Transient.REINST_Landscape_Painting_Mode_C_5:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.09.14-17.14.14:524][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a049b240, Size=80, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.09.14-17.14.14:560][  0]LogConsoleResponse: Display: 
+[2018.09.14-17.14.14:721][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.14-17.14.14:721][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.14-17.14.14:721][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.14-17.14.14:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-17.14.14:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-17.14.14:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/' took 0.02s
+[2018.09.14-17.14.15:044][  0]SourceControl: Source control is disabled
+[2018.09.14-17.14.15:044][  0]Cmd: MAP LOAD FILE="../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-17.14.15:044][  0]LightingResults: New page: Lighting Build
+[2018.09.14-17.14.15:047][  0]MapCheck: New page: Map Check
+[2018.09.14-17.14.15:047][  0]LightingResults: New page: Lighting Build
+[2018.09.14-17.14.15:058][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a0849960, Size=88
+[2018.09.14-17.14.15:058][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a08490c0, Size=88
+[2018.09.14-17.14.15:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022383168a00, Size=472, Default__BP_DialogueManager_C Function /Game/DialogueSystem/Blueprints/BP_DialogueManager.BP_DialogueManager_C:ExecuteUbergraph_BP_DialogueManager
+[2018.09.14-17.14.15:119][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a0568400, Size=72, Default__TRTl_anim_BP_C Function /Game/MY_ASSETS/BP/TRTL/TRTl_anim_BP.TRTl_anim_BP_C:ExecuteUbergraph_TRTl_anim_BP
+[2018.09.14-17.14.15:132][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223824890c0, Size=424, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002239df99600, Size=1488, Default__ThirdPersonCharacter_trt_C Function /Game/MY_ASSETS/BP/TRTL/ThirdPersonCharacter_trt.ThirdPersonCharacter_trt_C:ExecuteUbergraph_ThirdPersonCharacter_trt
+[2018.09.14-17.14.15:198][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a0311480, Size=192, Default__Fish_spawn_area_C Function /Game/MY_ASSETS/BP/TRTL/Fish_spawn_area.Fish_spawn_area_C:ExecuteUbergraph_Fish_spawn_area
+[2018.09.14-17.14.15:208][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022381ff32e0, Size=160, Default__Compass_widget_C Function /Game/MY_ASSETS/HUD/Compass_widget.Compass_widget_C:ExecuteUbergraph_Compass_widget
+[2018.09.14-17.14.15:217][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022382bfcb20, Size=96, Default__Depth_guage_C Function /Game/MY_ASSETS/HUD/Depth_guage.Depth_guage_C:ExecuteUbergraph_Depth_guage
+[2018.09.14-17.14.15:226][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002239fcf22a8, Size=4, Default__Hud_health_score_C Function /Game/MY_ASSETS/HUD/Hud_health_score.Hud_health_score_C:ExecuteUbergraph_Hud_health_score
+[2018.09.14-17.14.15:240][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022381fdc540, Size=72, Default__Pause_widget_C Function /Game/MY_ASSETS/HUD/Pause/Pause_widget.Pause_widget_C:ExecuteUbergraph_Pause_widget
+[2018.09.14-17.14.15:265][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022382c07400, Size=232, Default__Navv_point_bp_C Function /Game/MY_ASSETS/BP/Missions/Nav_OBjectives/Navv_point_bp.Navv_point_bp_C:ExecuteUbergraph_Navv_point_bp
+[2018.09.14-17.14.15:296][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022381f4e350, Size=20, Default__DecisionOption_C Function /Game/DialogueSystem/Widgets/DecisionOption.DecisionOption_C:ExecuteUbergraph_DecisionOption
+[2018.09.14-17.14.15:400][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_DialogueSelectionTypes.e_DialogueSelectionTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.09.14-17.14.15:430][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022383168a00, Size=472
+[2018.09.14-17.14.15:430][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385788a00, Size=472, Default__BP_DialogueManager_C Function /Engine/Transient.REINST_BP_DialogueManager_C_9:ExecuteUbergraph_BP_DialogueManager
+[2018.09.14-17.14.15:432][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a0311480, Size=192
+[2018.09.14-17.14.15:432][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386473940, Size=192, Default__Fish_spawn_area_C Function /Engine/Transient.REINST_Fish_spawn_area_C_10:ExecuteUbergraph_Fish_spawn_area
+[2018.09.14-17.14.15:432][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022382c07400, Size=232
+[2018.09.14-17.14.15:432][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238659b300, Size=232, Default__Navv_point_bp_C Function /Engine/Transient.REINST_Navv_point_bp_C_11:ExecuteUbergraph_Navv_point_bp
+[2018.09.14-17.14.15:433][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a0568400, Size=72
+[2018.09.14-17.14.15:433][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238651ce50, Size=72, Default__TRTl_anim_BP_C Function /Engine/Transient.REINST_TRTl_anim_BP_C_0:ExecuteUbergraph_TRTl_anim_BP
+[2018.09.14-17.14.15:434][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223824890c0, Size=424
+[2018.09.14-17.14.15:434][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238575cd40, Size=424, Default__Bp_MasterNPC_C Function /Engine/Transient.REINST_Bp_MasterNPC_C_13:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:434][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022381ff32e0, Size=160
+[2018.09.14-17.14.15:434][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386316e80, Size=160, Default__Compass_widget_C Function /Engine/Transient.REINST_Compass_widget_C_0:ExecuteUbergraph_Compass_widget
+[2018.09.14-17.14.15:436][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022381f4e350, Size=20
+[2018.09.14-17.14.15:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223864fcdd8, Size=20, Default__DecisionOption_C Function /Engine/Transient.REINST_DecisionOption_C_2:ExecuteUbergraph_DecisionOption
+[2018.09.14-17.14.15:437][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022382bfcb20, Size=96
+[2018.09.14-17.14.15:437][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022381e84b80, Size=96, Default__Depth_guage_C Function /Engine/Transient.REINST_Depth_guage_C_4:ExecuteUbergraph_Depth_guage
+[2018.09.14-17.14.15:438][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002239fcf22a8, Size=4
+[2018.09.14-17.14.15:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223863eeaa0, Size=4, Default__Hud_health_score_C Function /Engine/Transient.REINST_Hud_health_score_C_5:ExecuteUbergraph_Hud_health_score
+[2018.09.14-17.14.15:438][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022381fdc540, Size=72
+[2018.09.14-17.14.15:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223862febb0, Size=72, Default__Pause_widget_C Function /Engine/Transient.REINST_Pause_widget_C_9:ExecuteUbergraph_Pause_widget
+[2018.09.14-17.14.15:440][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002239df99600, Size=1488
+[2018.09.14-17.14.15:440][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223862dcf00, Size=1488, Default__ThirdPersonCharacter_trt_C Function /Engine/Transient.REINST_ThirdPersonCharacter_trt_C_14:ExecuteUbergraph_ThirdPersonCharacter_trt
+[2018.09.14-17.14.15:550][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385c9e400, Size=472, Default__BP_DialogueManager_C Function /Game/DialogueSystem/Blueprints/BP_DialogueManager.BP_DialogueManager_C:ExecuteUbergraph_BP_DialogueManager
+[2018.09.14-17.14.15:552][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385bb93c0, Size=192, Default__Fish_spawn_area_C Function /Game/MY_ASSETS/BP/TRTL/Fish_spawn_area.Fish_spawn_area_C:ExecuteUbergraph_Fish_spawn_area
+[2018.09.14-17.14.15:553][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385b92300, Size=232, Default__Navv_point_bp_C Function /Game/MY_ASSETS/BP/Missions/Nav_OBjectives/Navv_point_bp.Navv_point_bp_C:ExecuteUbergraph_Navv_point_bp
+[2018.09.14-17.14.15:554][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385bec400, Size=72, Default__TRTl_anim_BP_C Function /Game/MY_ASSETS/BP/TRTL/TRTl_anim_BP.TRTl_anim_BP_C:ExecuteUbergraph_TRTl_anim_BP
+[2018.09.14-17.14.15:560][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385b7ecc0, Size=424, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:564][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385abb2e0, Size=160, Default__Compass_widget_C Function /Game/MY_ASSETS/HUD/Compass_widget.Compass_widget_C:ExecuteUbergraph_Compass_widget
+[2018.09.14-17.14.15:569][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385dd82b0, Size=20, Default__DecisionOption_C Function /Game/DialogueSystem/Widgets/DecisionOption.DecisionOption_C:ExecuteUbergraph_DecisionOption
+[2018.09.14-17.14.15:572][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385a336a0, Size=96, Default__Depth_guage_C Function /Game/MY_ASSETS/HUD/Depth_guage.Depth_guage_C:ExecuteUbergraph_Depth_guage
+[2018.09.14-17.14.15:576][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385d5cfe0, Size=4, Default__Hud_health_score_C Function /Game/MY_ASSETS/HUD/Hud_health_score.Hud_health_score_C:ExecuteUbergraph_Hud_health_score
+[2018.09.14-17.14.15:580][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238699aed0, Size=72, Default__Pause_widget_C Function /Game/MY_ASSETS/HUD/Pause/Pause_widget.Pause_widget_C:ExecuteUbergraph_Pause_widget
+[2018.09.14-17.14.15:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868a2b00, Size=1488, Default__ThirdPersonCharacter_trt_C Function /Game/MY_ASSETS/BP/TRTL/ThirdPersonCharacter_trt.ThirdPersonCharacter_trt_C:ExecuteUbergraph_ThirdPersonCharacter_trt
+[2018.09.14-17.14.15:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868717c0, Size=424, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:660][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868717c0, Size=424
+[2018.09.14-17.14.15:660][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868717c0, Size=424, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:660][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868710c0, Size=424, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:663][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386870b80, Size=424, Default__Dont_go_too_deep_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:665][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386870b80, Size=424
+[2018.09.14-17.14.15:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386870b80, Size=424, Default__Dont_go_too_deep_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385787c80, Size=424, Default__Dont_go_too_deep_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:674][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238684ec00, Size=1000, Default__Lost_kid_C Function /Game/DialogueSystem/Blueprints/AI/mission/Lost_kid.Lost_kid_C:ExecuteUbergraph_Lost_kid
+[2018.09.14-17.14.15:674][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385787040, Size=424, Default__Lost_kid_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238684ec00, Size=1000
+[2018.09.14-17.14.15:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385787040, Size=424
+[2018.09.14-17.14.15:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238684ec00, Size=1000, Default__Lost_kid_C Function /Engine/Transient.REINST_Lost_kid_C_35:ExecuteUbergraph_Lost_kid
+[2018.09.14-17.14.15:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385787040, Size=424, Default__Lost_kid_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238684e000, Size=1000, Default__Lost_kid_C Function /Game/DialogueSystem/Blueprints/AI/mission/Lost_kid.Lost_kid_C:ExecuteUbergraph_Lost_kid
+[2018.09.14-17.14.15:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385785440, Size=424, Default__Lost_kid_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:709][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385b65600, Size=1488, Default__Lost_my_kids_C Function /Game/DialogueSystem/Blueprints/AI/mission/Lost_my_kids.Lost_my_kids_C:ExecuteUbergraph_Lost_my_kids
+[2018.09.14-17.14.15:709][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385784800, Size=424, Default__Lost_my_kids_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:722][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385b65600, Size=1488
+[2018.09.14-17.14.15:722][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385784800, Size=424
+[2018.09.14-17.14.15:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238585ab00, Size=1488, Default__Lost_my_kids_C Function /Engine/Transient.REINST_Lost_my_kids_C_37:ExecuteUbergraph_Lost_my_kids
+[2018.09.14-17.14.15:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868facc0, Size=424, Default__Lost_my_kids_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022381f45d00, Size=1488, Default__Lost_my_kids_C Function /Game/DialogueSystem/Blueprints/AI/mission/Lost_my_kids.Lost_my_kids_C:ExecuteUbergraph_Lost_my_kids
+[2018.09.14-17.14.15:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868f9ec0, Size=424, Default__Lost_my_kids_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:743][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238e59eb00, Size=2144, Default__Lost_my_shell_C Function /Game/DialogueSystem/Blueprints/AI/mission/Lost_my_shell.Lost_my_shell_C:ExecuteUbergraph_Lost_my_shell
+[2018.09.14-17.14.15:743][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868f9280, Size=424, Default__Lost_my_shell_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:765][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238e59eb00, Size=2144
+[2018.09.14-17.14.15:765][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868f9280, Size=424
+[2018.09.14-17.14.15:765][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238681f580, Size=2144, Default__Lost_my_shell_C Function /Engine/Transient.REINST_Lost_my_shell_C_39:ExecuteUbergraph_Lost_my_shell
+[2018.09.14-17.14.15:765][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223867e3c80, Size=424, Default__Lost_my_shell_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238752f580, Size=2144, Default__Lost_my_shell_C Function /Game/DialogueSystem/Blueprints/AI/mission/Lost_my_shell.Lost_my_shell_C:ExecuteUbergraph_Lost_my_shell
+[2018.09.14-17.14.15:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223867e2b00, Size=424, Default__Lost_my_shell_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238756c100, Size=1752, Default__Tutorial_trtl_C Function /Game/DialogueSystem/Blueprints/AI/mission/Tutorial_trtl.Tutorial_trtl_C:ExecuteUbergraph_Tutorial_trtl
+[2018.09.14-17.14.15:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223867e3200, Size=424, Default__Tutorial_trtl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:807][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238756c100, Size=1752
+[2018.09.14-17.14.15:808][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223867e3200, Size=424
+[2018.09.14-17.14.15:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874f3900, Size=1752, Default__Tutorial_trtl_C Function /Engine/Transient.REINST_Tutorial_trtl_C_41:ExecuteUbergraph_Tutorial_trtl
+[2018.09.14-17.14.15:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223867e3200, Size=424, Default__Tutorial_trtl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238744e400, Size=1752, Default__Tutorial_trtl_C Function /Game/DialogueSystem/Blueprints/AI/mission/Tutorial_trtl.Tutorial_trtl_C:ExecuteUbergraph_Tutorial_trtl
+[2018.09.14-17.14.15:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223867e0640, Size=424, Default__Tutorial_trtl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.09.14-17.14.15:837][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022387473740, Size=288, Default__Crab_controller_C Function /Game/MY_ASSETS/BP/AI/CRAB/Crab_controller.Crab_controller_C:ExecuteUbergraph_Crab_controller
+[2018.09.14-17.14.15:838][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022387442940, Size=200, Default__BP_Crab_C Function /Game/MY_ASSETS/BP/AI/BP_Crab.BP_Crab_C:ExecuteUbergraph_BP_Crab
+[2018.09.14-17.14.15:854][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238743b2e0, Size=32, Default__Attack_animation_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Attack_animation_crab.Attack_animation_crab_C:ExecuteUbergraph_Attack_animation_crab
+[2018.09.14-17.14.15:858][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238743b000, Size=32, Default__Clear_focus_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Clear_focus_crab.Clear_focus_crab_C:ExecuteUbergraph_Clear_focus_crab
+[2018.09.14-17.14.15:862][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c31f0, Size=40, Default__Get_player_location_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Get_player_location_crab.Get_player_location_crab_C:ExecuteUbergraph_Get_player_location_crab
+[2018.09.14-17.14.15:865][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238743aa60, Size=32, Default__Get_target_location_point_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Get_target_location_point.Get_target_location_point_C:ExecuteUbergraph_Get_target_location_point
+[2018.09.14-17.14.15:868][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868d7270, Size=56, Default__GetRoamLocationCrab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/GetRoamLocationCrab.GetRoamLocationCrab_C:ExecuteUbergraph_GetRoamLocationCrab
+[2018.09.14-17.14.15:872][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238741ca30, Size=112, Default__Go_to_last_known_location_Crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Go_to_last_known_location_Crab.Go_to_last_known_location_Crab_C:ExecuteUbergraph_Go_to_last_known_location_Crab
+[2018.09.14-17.14.15:875][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238741ce20, Size=112, Default__Move_to_player_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Move_to_player.Move_to_player_C:ExecuteUbergraph_Move_to_player
+[2018.09.14-17.14.15:879][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c2048, Size=40, Default__Set_player_focus_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Set_player_focus_crab.Set_player_focus_crab_C:ExecuteUbergraph_Set_player_focus_crab
+[2018.09.14-17.14.15:888][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238743b2e0, Size=32
+[2018.09.14-17.14.15:888][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223858180a0, Size=32, Default__Attack_animation_crab_C Function /Engine/Transient.REINST_Attack_animation_crab_C_45:ExecuteUbergraph_Attack_animation_crab
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022387442940, Size=200
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223873f09c0, Size=200, Default__BP_Crab_C Function /Engine/Transient.REINST_BP_Crab_C_46:ExecuteUbergraph_BP_Crab
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238743b000, Size=32
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385819b60, Size=32, Default__Clear_focus_crab_C Function /Engine/Transient.REINST_Clear_focus_crab_C_47:ExecuteUbergraph_Clear_focus_crab
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022387473740, Size=288
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022387473740, Size=288, Default__Crab_controller_C Function /Engine/Transient.REINST_Crab_controller_C_48:ExecuteUbergraph_Crab_controller
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874c31f0, Size=40
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c31f0, Size=40, Default__Get_player_location_crab_C Function /Engine/Transient.REINST_Get_player_location_crab_C_49:ExecuteUbergraph_Get_player_location_crab
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238743aa60, Size=32
+[2018.09.14-17.14.15:889][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385819a60, Size=32, Default__Get_target_location_point_C Function /Engine/Transient.REINST_Get_target_location_point_C_50:ExecuteUbergraph_Get_target_location_point
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868d7270, Size=56
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223868d7270, Size=56, Default__GetRoamLocationCrab_C Function /Engine/Transient.REINST_GetRoamLocationCrab_C_51:ExecuteUbergraph_GetRoamLocationCrab
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238741ca30, Size=112
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238741ca30, Size=112, Default__Go_to_last_known_location_Crab_C Function /Engine/Transient.REINST_Go_to_last_known_location_Crab_C_52:ExecuteUbergraph_Go_to_last_known_location_Crab
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238741ce20, Size=112
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238741ce20, Size=112, Default__Move_to_player_C Function /Engine/Transient.REINST_Move_to_player_C_53:ExecuteUbergraph_Move_to_player
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874c2048, Size=40
+[2018.09.14-17.14.15:890][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c2048, Size=40, Default__Set_player_focus_crab_C Function /Engine/Transient.REINST_Set_player_focus_crab_C_54:ExecuteUbergraph_Set_player_focus_crab
+[2018.09.14-17.14.15:902][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223870af480, Size=32, Default__Attack_animation_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Attack_animation_crab.Attack_animation_crab_C:ExecuteUbergraph_Attack_animation_crab
+[2018.09.14-17.14.15:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223870bb040, Size=200, Default__BP_Crab_C Function /Game/MY_ASSETS/BP/AI/BP_Crab.BP_Crab_C:ExecuteUbergraph_BP_Crab
+[2018.09.14-17.14.15:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223870aed80, Size=32, Default__Clear_focus_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Clear_focus_crab.Clear_focus_crab_C:ExecuteUbergraph_Clear_focus_crab
+[2018.09.14-17.14.15:905][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874702c0, Size=288, Default__Crab_controller_C Function /Game/MY_ASSETS/BP/AI/CRAB/Crab_controller.Crab_controller_C:ExecuteUbergraph_Crab_controller
+[2018.09.14-17.14.15:905][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c31a0, Size=40, Default__Get_player_location_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Get_player_location_crab.Get_player_location_crab_C:ExecuteUbergraph_Get_player_location_crab
+[2018.09.14-17.14.15:906][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223870adf20, Size=32, Default__Get_target_location_point_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Get_target_location_point.Get_target_location_point_C:ExecuteUbergraph_Get_target_location_point
+[2018.09.14-17.14.15:906][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386860800, Size=56, Default__GetRoamLocationCrab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/GetRoamLocationCrab.GetRoamLocationCrab_C:ExecuteUbergraph_GetRoamLocationCrab
+[2018.09.14-17.14.15:907][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238705fac0, Size=112, Default__Go_to_last_known_location_Crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Go_to_last_known_location_Crab.Go_to_last_known_location_Crab_C:ExecuteUbergraph_Go_to_last_known_location_Crab
+[2018.09.14-17.14.15:907][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238705c170, Size=112, Default__Move_to_player_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Move_to_player.Move_to_player_C:ExecuteUbergraph_Move_to_player
+[2018.09.14-17.14.15:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c2098, Size=40, Default__Set_player_focus_crab_C Function /Game/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Set_player_focus_crab.Set_player_focus_crab_C:ExecuteUbergraph_Set_player_focus_crab
+[2018.09.14-17.14.15:924][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238601c400, Size=592, Default__FISH_CAGE_C Function /Game/Fish/Blueprints/Underwater_Life/FISH_CAGE.FISH_CAGE_C:ExecuteUbergraph_FISH_CAGE
+[2018.09.14-17.14.15:933][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238601c400, Size=592
+[2018.09.14-17.14.15:933][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238601c400, Size=592, Default__FISH_CAGE_C Function /Engine/Transient.REINST_FISH_CAGE_C_65:ExecuteUbergraph_FISH_CAGE
+[2018.09.14-17.14.15:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385fada80, Size=592, Default__FISH_CAGE_C Function /Game/Fish/Blueprints/Underwater_Life/FISH_CAGE.FISH_CAGE_C:ExecuteUbergraph_FISH_CAGE
+[2018.09.14-17.14.15:950][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c02e8, Size=40, Default__Mission_complete_C Function /Game/MY_ASSETS/BP/Missions/Parent_class/Mission_complete.Mission_complete_C:ExecuteUbergraph_Mission_complete
+[2018.09.14-17.14.15:951][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874c02e8, Size=40
+[2018.09.14-17.14.15:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c02e8, Size=40, Default__Mission_complete_C Function /Engine/Transient.REINST_Mission_complete_C_67:ExecuteUbergraph_Mission_complete
+[2018.09.14-17.14.15:953][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223874c02c0, Size=40, Default__Mission_complete_C Function /Game/MY_ASSETS/BP/Missions/Parent_class/Mission_complete.Mission_complete_C:ExecuteUbergraph_Mission_complete
+[2018.09.14-17.14.15:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386f8b880, Size=344, Default__coin_C Function /Game/MY_ASSETS/BP/Collectables/colects/coin.coin_C:ExecuteUbergraph_coin
+[2018.09.14-17.14.15:975][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386f8b880, Size=344
+[2018.09.14-17.14.15:975][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386d91900, Size=344, Default__coin_C Function /Engine/Transient.REINST_coin_C_73:ExecuteUbergraph_coin
+[2018.09.14-17.14.15:978][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386d67e80, Size=344, Default__coin_C Function /Game/MY_ASSETS/BP/Collectables/colects/coin.coin_C:ExecuteUbergraph_coin
+[2018.09.14-17.14.15:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385f30e00, Size=640, Default__Race_ring_C Function /Game/MY_ASSETS/BP/racering/Parent_class/Race_ring.Race_ring_C:ExecuteUbergraph_Race_ring
+[2018.09.14-17.14.15:996][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385f30e00, Size=640
+[2018.09.14-17.14.15:996][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385f30e00, Size=640, Default__Race_ring_C Function /Engine/Transient.REINST_Race_ring_C_75:ExecuteUbergraph_Race_ring
+[2018.09.14-17.14.16:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385eb5f80, Size=640, Default__Race_ring_C Function /Game/MY_ASSETS/BP/racering/Parent_class/Race_ring.Race_ring_C:ExecuteUbergraph_Race_ring
+[2018.09.14-17.14.16:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a3ad7fc0, Size=8, Default__BP_Ocean_C Function /Game/Ocean/BP_Ocean.BP_Ocean_C:ExecuteUbergraph_BP_Ocean
+[2018.09.14-17.14.16:250][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a3ad7fc0, Size=8
+[2018.09.14-17.14.16:250][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a3ad7fc0, Size=8, Default__BP_Ocean_C Function /Engine/Transient.REINST_BP_Ocean_C_77:ExecuteUbergraph_BP_Ocean
+[2018.09.14-17.14.16:271][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a3ad4fe0, Size=8, Default__BP_Ocean_C Function /Game/Ocean/BP_Ocean.BP_Ocean_C:ExecuteUbergraph_BP_Ocean
+[2018.09.14-17.14.16:336][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a37a9480, Size=368, Default__BP_Skydome_C Function /Game/Sky/Old/BP_Skydome.BP_Skydome_C:ExecuteUbergraph_BP_Skydome
+[2018.09.14-17.14.16:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a37a9480, Size=368
+[2018.09.14-17.14.16:381][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a4a60280, Size=368, Default__BP_Skydome_C Function /Engine/Transient.REINST_BP_Skydome_C_79:ExecuteUbergraph_BP_Skydome
+[2018.09.14-17.14.16:410][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a470f700, Size=368, Default__BP_Skydome_C Function /Game/Sky/Old/BP_Skydome.BP_Skydome_C:ExecuteUbergraph_BP_Skydome
+[2018.09.14-17.14.16:419][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a474dfa0, Size=208, Default__BP_BlueFinTuna_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_BlueFinTuna.BP_BlueFinTuna_C:ExecuteUbergraph_BP_BlueFinTuna
+[2018.09.14-17.14.16:420][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a474d8a0, Size=200, Default__BP_WhiteShark_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_WhiteShark.BP_WhiteShark_C:ExecuteUbergraph_BP_WhiteShark
+[2018.09.14-17.14.16:446][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a46a6780, Size=208, Default__BP_Mackerel_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Mackerel.BP_Mackerel_C:ExecuteUbergraph_BP_Mackerel
+[2018.09.14-17.14.16:456][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a46a5600, Size=208, Default__BP_Tropical_01_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_01.BP_Tropical_01_C:ExecuteUbergraph_BP_Tropical_01
+[2018.09.14-17.14.16:468][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a46a43a0, Size=208, Default__BP_Tropical_02_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_02.BP_Tropical_02_C:ExecuteUbergraph_BP_Tropical_02
+[2018.09.14-17.14.16:478][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a4b3ada0, Size=208, Default__BP_Tropical_03_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_03.BP_Tropical_03_C:ExecuteUbergraph_BP_Tropical_03
+[2018.09.14-17.14.16:491][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a4b39c20, Size=208, Default__BP_Tropical_04_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_04.BP_Tropical_04_C:ExecuteUbergraph_BP_Tropical_04
+[2018.09.14-17.14.16:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a4b38aa0, Size=208, Default__BP_Tropical_05_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_05.BP_Tropical_05_C:ExecuteUbergraph_BP_Tropical_05
+[2018.09.14-17.14.16:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a438b4a0, Size=208, Default__BP_Tropical_06_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_06.BP_Tropical_06_C:ExecuteUbergraph_BP_Tropical_06
+[2018.09.14-17.14.16:525][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a438a240, Size=208, Default__BP_Tropical_07_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_07.BP_Tropical_07_C:ExecuteUbergraph_BP_Tropical_07
+[2018.09.14-17.14.16:536][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a43890c0, Size=208, Default__BP_Tropical_08_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_08.BP_Tropical_08_C:ExecuteUbergraph_BP_Tropical_08
+[2018.09.14-17.14.16:548][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a731fac0, Size=208, Default__BP_Tropical_09_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_09.BP_Tropical_09_C:ExecuteUbergraph_BP_Tropical_09
+[2018.09.14-17.14.16:559][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a731ea20, Size=208, Default__BP_Tropical_10_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_10.BP_Tropical_10_C:ExecuteUbergraph_BP_Tropical_10
+[2018.09.14-17.14.16:571][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a731d8a0, Size=208, Default__BP_Tropical_11_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_11.BP_Tropical_11_C:ExecuteUbergraph_BP_Tropical_11
+[2018.09.14-17.14.16:582][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a731c720, Size=208, Default__BP_Tropical_12_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_12.BP_Tropical_12_C:ExecuteUbergraph_BP_Tropical_12
+[2018.09.14-17.14.16:594][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7f2b4a0, Size=208, Default__BP_Tropical_13_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_13.BP_Tropical_13_C:ExecuteUbergraph_BP_Tropical_13
+[2018.09.14-17.14.16:604][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7f2a320, Size=208, Default__BP_Tropical_14_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_14.BP_Tropical_14_C:ExecuteUbergraph_BP_Tropical_14
+[2018.09.14-17.14.16:615][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7f291a0, Size=208, Default__BP_Tropical_15_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_15.BP_Tropical_15_C:ExecuteUbergraph_BP_Tropical_15
+[2018.09.14-17.14.16:640][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a474dfa0, Size=208
+[2018.09.14-17.14.16:640][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7e75520, Size=208, Default__BP_BlueFinTuna_C Function /Engine/Transient.REINST_BP_BlueFinTuna_C_81:ExecuteUbergraph_BP_BlueFinTuna
+[2018.09.14-17.14.16:642][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a46a6780, Size=208
+[2018.09.14-17.14.16:642][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7e74fe0, Size=208, Default__BP_Mackerel_C Function /Engine/Transient.REINST_BP_Mackerel_C_82:ExecuteUbergraph_BP_Mackerel
+[2018.09.14-17.14.16:642][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a731ea20, Size=208
+[2018.09.14-17.14.16:642][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7e74b80, Size=208, Default__BP_Tropical_10_C Function /Engine/Transient.REINST_BP_Tropical_10_C_83:ExecuteUbergraph_BP_Tropical_10
+[2018.09.14-17.14.16:642][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a731d8a0, Size=208
+[2018.09.14-17.14.16:642][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7e74720, Size=208, Default__BP_Tropical_11_C Function /Engine/Transient.REINST_BP_Tropical_11_C_84:ExecuteUbergraph_BP_Tropical_11
+[2018.09.14-17.14.16:643][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a731c720, Size=208
+[2018.09.14-17.14.16:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7e742c0, Size=208, Default__BP_Tropical_12_C Function /Engine/Transient.REINST_BP_Tropical_12_C_85:ExecuteUbergraph_BP_Tropical_12
+[2018.09.14-17.14.16:643][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7f2b4a0, Size=208
+[2018.09.14-17.14.16:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5fd60, Size=208, Default__BP_Tropical_13_C Function /Engine/Transient.REINST_BP_Tropical_13_C_86:ExecuteUbergraph_BP_Tropical_13
+[2018.09.14-17.14.16:643][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7f2a320, Size=208
+[2018.09.14-17.14.16:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5f900, Size=208, Default__BP_Tropical_14_C Function /Engine/Transient.REINST_BP_Tropical_14_C_87:ExecuteUbergraph_BP_Tropical_14
+[2018.09.14-17.14.16:644][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7f291a0, Size=208
+[2018.09.14-17.14.16:644][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5f4a0, Size=208, Default__BP_Tropical_15_C Function /Engine/Transient.REINST_BP_Tropical_15_C_88:ExecuteUbergraph_BP_Tropical_15
+[2018.09.14-17.14.16:644][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a46a5600, Size=208
+[2018.09.14-17.14.16:644][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5f040, Size=208, Default__BP_Tropical_01_C Function /Engine/Transient.REINST_BP_Tropical_01_C_89:ExecuteUbergraph_BP_Tropical_01
+[2018.09.14-17.14.16:644][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a46a43a0, Size=208
+[2018.09.14-17.14.16:644][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5ebe0, Size=208, Default__BP_Tropical_02_C Function /Engine/Transient.REINST_BP_Tropical_02_C_90:ExecuteUbergraph_BP_Tropical_02
+[2018.09.14-17.14.16:645][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a4b3ada0, Size=208
+[2018.09.14-17.14.16:645][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5e780, Size=208, Default__BP_Tropical_03_C Function /Engine/Transient.REINST_BP_Tropical_03_C_91:ExecuteUbergraph_BP_Tropical_03
+[2018.09.14-17.14.16:645][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a4b39c20, Size=208
+[2018.09.14-17.14.16:645][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5e320, Size=208, Default__BP_Tropical_04_C Function /Engine/Transient.REINST_BP_Tropical_04_C_92:ExecuteUbergraph_BP_Tropical_04
+[2018.09.14-17.14.16:645][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a4b38aa0, Size=208
+[2018.09.14-17.14.16:645][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5dec0, Size=208, Default__BP_Tropical_05_C Function /Engine/Transient.REINST_BP_Tropical_05_C_93:ExecuteUbergraph_BP_Tropical_05
+[2018.09.14-17.14.16:646][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a438b4a0, Size=208
+[2018.09.14-17.14.16:646][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5da60, Size=208, Default__BP_Tropical_06_C Function /Engine/Transient.REINST_BP_Tropical_06_C_94:ExecuteUbergraph_BP_Tropical_06
+[2018.09.14-17.14.16:646][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a438a240, Size=208
+[2018.09.14-17.14.16:646][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5d600, Size=208, Default__BP_Tropical_07_C Function /Engine/Transient.REINST_BP_Tropical_07_C_95:ExecuteUbergraph_BP_Tropical_07
+[2018.09.14-17.14.16:646][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a43890c0, Size=208
+[2018.09.14-17.14.16:646][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5d1a0, Size=208, Default__BP_Tropical_08_C Function /Engine/Transient.REINST_BP_Tropical_08_C_96:ExecuteUbergraph_BP_Tropical_08
+[2018.09.14-17.14.16:647][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a731fac0, Size=208
+[2018.09.14-17.14.16:647][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5cd40, Size=208, Default__BP_Tropical_09_C Function /Engine/Transient.REINST_BP_Tropical_09_C_97:ExecuteUbergraph_BP_Tropical_09
+[2018.09.14-17.14.16:647][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a474d8a0, Size=200
+[2018.09.14-17.14.16:647][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d5c8e0, Size=200, Default__BP_WhiteShark_C Function /Engine/Transient.REINST_BP_WhiteShark_C_98:ExecuteUbergraph_BP_WhiteShark
+[2018.09.14-17.14.16:682][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7a3caa0, Size=208, Default__BP_BlueFinTuna_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_BlueFinTuna.BP_BlueFinTuna_C:ExecuteUbergraph_BP_BlueFinTuna
+[2018.09.14-17.14.16:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7a3c8e0, Size=208, Default__BP_Mackerel_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Mackerel.BP_Mackerel_C:ExecuteUbergraph_BP_Mackerel
+[2018.09.14-17.14.16:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7a3c720, Size=208, Default__BP_Tropical_10_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_10.BP_Tropical_10_C:ExecuteUbergraph_BP_Tropical_10
+[2018.09.14-17.14.16:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7a3c640, Size=208, Default__BP_Tropical_11_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_11.BP_Tropical_11_C:ExecuteUbergraph_BP_Tropical_11
+[2018.09.14-17.14.16:686][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7a3c560, Size=208, Default__BP_Tropical_12_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_12.BP_Tropical_12_C:ExecuteUbergraph_BP_Tropical_12
+[2018.09.14-17.14.16:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7a3c3a0, Size=208, Default__BP_Tropical_13_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_13.BP_Tropical_13_C:ExecuteUbergraph_BP_Tropical_13
+[2018.09.14-17.14.16:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983e40, Size=208, Default__BP_Tropical_14_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_14.BP_Tropical_14_C:ExecuteUbergraph_BP_Tropical_14
+[2018.09.14-17.14.16:689][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983d60, Size=208, Default__BP_Tropical_15_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_15.BP_Tropical_15_C:ExecuteUbergraph_BP_Tropical_15
+[2018.09.14-17.14.16:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983c80, Size=208, Default__BP_Tropical_01_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_01.BP_Tropical_01_C:ExecuteUbergraph_BP_Tropical_01
+[2018.09.14-17.14.16:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983ac0, Size=208, Default__BP_Tropical_02_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_02.BP_Tropical_02_C:ExecuteUbergraph_BP_Tropical_02
+[2018.09.14-17.14.16:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983900, Size=208, Default__BP_Tropical_03_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_03.BP_Tropical_03_C:ExecuteUbergraph_BP_Tropical_03
+[2018.09.14-17.14.16:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983740, Size=208, Default__BP_Tropical_04_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_04.BP_Tropical_04_C:ExecuteUbergraph_BP_Tropical_04
+[2018.09.14-17.14.16:694][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983580, Size=208, Default__BP_Tropical_05_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_05.BP_Tropical_05_C:ExecuteUbergraph_BP_Tropical_05
+[2018.09.14-17.14.16:694][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a79833c0, Size=208, Default__BP_Tropical_06_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_06.BP_Tropical_06_C:ExecuteUbergraph_BP_Tropical_06
+[2018.09.14-17.14.16:695][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983200, Size=208, Default__BP_Tropical_07_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_07.BP_Tropical_07_C:ExecuteUbergraph_BP_Tropical_07
+[2018.09.14-17.14.16:696][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7983040, Size=208, Default__BP_Tropical_08_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_08.BP_Tropical_08_C:ExecuteUbergraph_BP_Tropical_08
+[2018.09.14-17.14.16:697][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7982e80, Size=208, Default__BP_Tropical_09_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_09.BP_Tropical_09_C:ExecuteUbergraph_BP_Tropical_09
+[2018.09.14-17.14.16:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7982cc0, Size=200, Default__BP_WhiteShark_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_WhiteShark.BP_WhiteShark_C:ExecuteUbergraph_BP_WhiteShark
+[2018.09.14-17.14.16:720][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7980c60, Size=208, Default__BP_FalseAlbacore_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_FalseAlbacore.BP_FalseAlbacore_C:ExecuteUbergraph_BP_FalseAlbacore
+[2018.09.14-17.14.16:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7980480, Size=208, Default__BP_YellowFinTuna_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_YellowFinTuna.BP_YellowFinTuna_C:ExecuteUbergraph_BP_YellowFinTuna
+[2018.09.14-17.14.16:748][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7980c60, Size=208
+[2018.09.14-17.14.16:749][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7ab98a0, Size=208, Default__BP_FalseAlbacore_C Function /Engine/Transient.REINST_BP_FalseAlbacore_C_117:ExecuteUbergraph_BP_FalseAlbacore
+[2018.09.14-17.14.16:749][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7980480, Size=208
+[2018.09.14-17.14.16:749][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7aba6a0, Size=208, Default__BP_YellowFinTuna_C Function /Engine/Transient.REINST_BP_YellowFinTuna_C_118:ExecuteUbergraph_BP_YellowFinTuna
+[2018.09.14-17.14.16:756][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7b2bd60, Size=208, Default__BP_FalseAlbacore_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_FalseAlbacore.BP_FalseAlbacore_C:ExecuteUbergraph_BP_FalseAlbacore
+[2018.09.14-17.14.16:757][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d18b80, Size=208, Default__BP_YellowFinTuna_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_YellowFinTuna.BP_YellowFinTuna_C:ExecuteUbergraph_BP_YellowFinTuna
+[2018.09.14-17.14.16:773][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7d1b580, Size=208, Default__BP_Jellyfish_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Jellyfish.BP_Jellyfish_C:ExecuteUbergraph_BP_Jellyfish
+[2018.09.14-17.14.16:778][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d1b580, Size=208
+[2018.09.14-17.14.16:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a79801e0, Size=208, Default__BP_Jellyfish_C Function /Engine/Transient.REINST_BP_Jellyfish_C_121:ExecuteUbergraph_BP_Jellyfish
+[2018.09.14-17.14.16:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a774b120, Size=208, Default__BP_Jellyfish_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Jellyfish.BP_Jellyfish_C:ExecuteUbergraph_BP_Jellyfish
+[2018.09.14-17.14.16:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a774a320, Size=224, Default__BP_MakoShark_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_MakoShark.BP_MakoShark_C:ExecuteUbergraph_BP_MakoShark
+[2018.09.14-17.14.16:799][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a774a320, Size=224
+[2018.09.14-17.14.16:799][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a774a320, Size=224, Default__BP_MakoShark_C Function /Engine/Transient.REINST_BP_MakoShark_C_123:ExecuteUbergraph_BP_MakoShark
+[2018.09.14-17.14.16:801][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a77490c0, Size=224, Default__BP_MakoShark_C Function /Game/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_MakoShark.BP_MakoShark_C:ExecuteUbergraph_BP_MakoShark
+[2018.09.14-17.14.16:816][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7984100, Size=1248, Default__Bugs_C Function /Game/MY_ASSETS/BP/Bugs/Bugs.Bugs_C:ExecuteUbergraph_Bugs
+[2018.09.14-17.14.16:823][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7984100, Size=1248
+[2018.09.14-17.14.16:823][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a79ac800, Size=1248, Default__Bugs_C Function /Engine/Transient.REINST_Bugs_C_125:ExecuteUbergraph_Bugs
+[2018.09.14-17.14.16:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7ce0800, Size=1248, Default__Bugs_C Function /Game/MY_ASSETS/BP/Bugs/Bugs.Bugs_C:ExecuteUbergraph_Bugs
+[2018.09.14-17.14.16:850][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a766ea00, Size=464, Default__Bp_treasure_chest_C Function /Game/MY_ASSETS/BP/Collectables/Bp_treasure_chest.Bp_treasure_chest_C:ExecuteUbergraph_Bp_treasure_chest
+[2018.09.14-17.14.16:855][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a766ea00, Size=464
+[2018.09.14-17.14.16:855][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a766ea00, Size=464, Default__Bp_treasure_chest_C Function /Engine/Transient.REINST_Bp_treasure_chest_C_127:ExecuteUbergraph_Bp_treasure_chest
+[2018.09.14-17.14.16:858][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a766ce00, Size=464, Default__Bp_treasure_chest_C Function /Game/MY_ASSETS/BP/Collectables/Bp_treasure_chest.Bp_treasure_chest_C:ExecuteUbergraph_Bp_treasure_chest
+[2018.09.14-17.14.16:866][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7660f00, Size=200, Default__Mission_obj_pickup_C Function /Game/MY_ASSETS/BP/Collectables/colects/Mission_obj_pickup.Mission_obj_pickup_C:ExecuteUbergraph_Mission_obj_pickup
+[2018.09.14-17.14.16:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7660f00, Size=200
+[2018.09.14-17.14.16:870][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7660f00, Size=200, Default__Mission_obj_pickup_C Function /Engine/Transient.REINST_Mission_obj_pickup_C_129:ExecuteUbergraph_Mission_obj_pickup
+[2018.09.14-17.14.16:872][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a80bf900, Size=200, Default__Mission_obj_pickup_C Function /Game/MY_ASSETS/BP/Collectables/colects/Mission_obj_pickup.Mission_obj_pickup_C:ExecuteUbergraph_Mission_obj_pickup
+[2018.09.14-17.14.16:886][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a80be320, Size=208, Default__Coral_C Function /Game/MY_ASSETS/BP/Coral/Coral.Coral_C:ExecuteUbergraph_Coral
+[2018.09.14-17.14.16:889][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a80be320, Size=208
+[2018.09.14-17.14.16:889][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a80be320, Size=208, Default__Coral_C Function /Engine/Transient.REINST_Coral_C_131:ExecuteUbergraph_Coral
+[2018.09.14-17.14.16:892][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a80bce20, Size=208, Default__Coral_C Function /Game/MY_ASSETS/BP/Coral/Coral.Coral_C:ExecuteUbergraph_Coral
+[2018.09.14-17.14.16:902][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7ff5800, Size=544, Default__BP_bubble_C Function /Game/MY_ASSETS/BP/Coral/oxygen_vent/BP_bubble.BP_bubble_C:ExecuteUbergraph_BP_bubble
+[2018.09.14-17.14.16:908][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7ff5800, Size=544
+[2018.09.14-17.14.16:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7ff5800, Size=544, Default__BP_bubble_C Function /Engine/Transient.REINST_BP_bubble_C_133:ExecuteUbergraph_BP_bubble
+[2018.09.14-17.14.16:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8167b00, Size=544, Default__BP_bubble_C Function /Game/MY_ASSETS/BP/Coral/oxygen_vent/BP_bubble.BP_bubble_C:ExecuteUbergraph_BP_bubble
+[2018.09.14-17.14.16:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8321480, Size=336, Default__bp_oxygen_vent_C Function /Game/MY_ASSETS/BP/Coral/oxygen_vent/bp_oxygen_vent.bp_oxygen_vent_C:ExecuteUbergraph_bp_oxygen_vent
+[2018.09.14-17.14.16:924][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a8321480, Size=336
+[2018.09.14-17.14.16:924][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8747700, Size=336, Default__bp_oxygen_vent_C Function /Engine/Transient.REINST_bp_oxygen_vent_C_135:ExecuteUbergraph_bp_oxygen_vent
+[2018.09.14-17.14.16:927][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a872ac80, Size=336, Default__bp_oxygen_vent_C Function /Game/MY_ASSETS/BP/Coral/oxygen_vent/bp_oxygen_vent.bp_oxygen_vent_C:ExecuteUbergraph_bp_oxygen_vent
+[2018.09.14-17.14.16:930][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7689210, Size=40, Default__Mission_complete_get_to_pool_C Function /Game/MY_ASSETS/BP/Missions/Parent_class/Mission_complete.Mission_complete_C:ExecuteUbergraph_Mission_complete
+[2018.09.14-17.14.16:931][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7689210, Size=40
+[2018.09.14-17.14.16:931][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7689210, Size=40, Default__Mission_complete_get_to_pool_C Function /Game/MY_ASSETS/BP/Missions/Parent_class/Mission_complete.Mission_complete_C:ExecuteUbergraph_Mission_complete
+[2018.09.14-17.14.16:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7689148, Size=40, Default__Mission_complete_get_to_pool_C Function /Game/MY_ASSETS/BP/Missions/Parent_class/Mission_complete.Mission_complete_C:ExecuteUbergraph_Mission_complete
+[2018.09.14-17.14.16:934][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8165800, Size=640, Default__Race_ring_Child_C Function /Game/MY_ASSETS/BP/racering/Parent_class/Race_ring.Race_ring_C:ExecuteUbergraph_Race_ring
+[2018.09.14-17.14.16:936][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a8165800, Size=640
+[2018.09.14-17.14.16:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8165800, Size=640, Default__Race_ring_Child_C Function /Game/MY_ASSETS/BP/racering/Parent_class/Race_ring.Race_ring_C:ExecuteUbergraph_Race_ring
+[2018.09.14-17.14.16:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8165080, Size=640, Default__Race_ring_Child_C Function /Game/MY_ASSETS/BP/racering/Parent_class/Race_ring.Race_ring_C:ExecuteUbergraph_Race_ring
+[2018.09.14-17.14.16:941][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7b441f0, Size=4, Default__Main_hud_C Function /Game/MY_ASSETS/HUD/Main_hud.Main_hud_C:ExecuteUbergraph_Main_hud
+[2018.09.14-17.14.16:943][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7b441f0, Size=4
+[2018.09.14-17.14.16:943][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7b441f0, Size=4, Default__Main_hud_C Function /Engine/Transient.REINST_Main_hud_C_139:ExecuteUbergraph_Main_hud
+[2018.09.14-17.14.16:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7b440f8, Size=4, Default__Main_hud_C Function /Game/MY_ASSETS/HUD/Main_hud.Main_hud_C:ExecuteUbergraph_Main_hud
+[2018.09.14-17.14.16:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8272d40, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.09.14-17.14.16:986][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a8272d40, Size=72
+[2018.09.14-17.14.16:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223ad59abb0, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_1:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.09.14-17.14.16:994][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223ad526840, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.09.14-17.14.17:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223ad51eb00, Size=864, Default__TP_VehicleController_C Function /Game/ShipsAndExamples/CustomThirdPerson/Blueprints/TP_VehicleController.TP_VehicleController_C:ExecuteUbergraph_TP_VehicleController
+[2018.09.14-17.14.17:065][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238de37580, Size=2032, Default__ThirdPersonCharacter_C Function /Game/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.14-17.14.17:126][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7925300, Size=256, Default__ThirdPersonGameMode_C Function /Game/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.09.14-17.14.17:177][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a8ae2080, Size=384, Default__BP_Sky_C Function /Game/Sky/BP_Sky.BP_Sky_C:ExecuteUbergraph_BP_Sky
+[2018.09.14-17.14.17:231][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002238609d210, Size=48, Default__MessageText_C Function /Game/ShipsAndExamples/UI/Chatbox/MessageText.MessageText_C:ExecuteUbergraph_MessageText
+[2018.09.14-17.14.17:240][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223addae940, Size=432, Default__ChatboxWidget_C Function /Game/ShipsAndExamples/UI/Chatbox/ChatboxWidget.ChatboxWidget_C:ExecuteUbergraph_ChatboxWidget
+[2018.09.14-17.14.17:272][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022386701080, Size=264, Default__InterractionWidget_C Function /Game/ShipsAndExamples/UI/InterractionWidget.InterractionWidget_C:ExecuteUbergraph_InterractionWidget
+[2018.09.14-17.14.17:325][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a8ae2080, Size=384
+[2018.09.14-17.14.17:325][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022392b20e80, Size=384, Default__BP_Sky_C Function /Engine/Transient.REINST_BP_Sky_C_148:ExecuteUbergraph_BP_Sky
+[2018.09.14-17.14.17:327][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223addae940, Size=432
+[2018.09.14-17.14.17:327][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022392be1ec0, Size=432, Default__ChatboxWidget_C Function /Engine/Transient.REINST_ChatboxWidget_C_11:ExecuteUbergraph_ChatboxWidget
+[2018.09.14-17.14.17:328][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386701080, Size=264
+[2018.09.14-17.14.17:328][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022392c86fc0, Size=264, Default__InterractionWidget_C Function /Engine/Transient.REINST_InterractionWidget_C_12:ExecuteUbergraph_InterractionWidget
+[2018.09.14-17.14.17:328][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238609d210, Size=48
+[2018.09.14-17.14.17:328][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022385b9f610, Size=48, Default__MessageText_C Function /Engine/Transient.REINST_MessageText_C_13:ExecuteUbergraph_MessageText
+[2018.09.14-17.14.17:329][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238de37580, Size=2032
+[2018.09.14-17.14.17:329][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022392c88b80, Size=2032, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_149:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.14-17.14.17:329][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7925300, Size=256
+[2018.09.14-17.14.17:329][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223a7988e00, Size=256, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_150:ExecuteUbergraph_ThirdPersonGameMode
+[2018.09.14-17.14.17:330][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223ad51eb00, Size=864
+[2018.09.14-17.14.17:330][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022392c90800, Size=864, Default__TP_VehicleController_C Function /Engine/Transient.REINST_TP_VehicleController_C_151:ExecuteUbergraph_TP_VehicleController
+[2018.09.14-17.14.17:356][  0]LogBlueprint: Warning: [Compiler ChatboxWidget] Input pin  Color 0  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-17.14.17:387][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.09.14-17.14.17:408][  0]LogBlueprint: Warning: [Compiler TP_VehicleController] InputAction Event references unknown Action 'EnterChat' for  InputAction EnterChat
+[2018.09.14-17.14.17:408][  0]LogBlueprint: Warning: [Compiler TP_VehicleController] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2018.09.14-17.14.17:416][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022393473b80, Size=384, Default__BP_Sky_C Function /Game/Sky/BP_Sky.BP_Sky_C:ExecuteUbergraph_BP_Sky
+[2018.09.14-17.14.17:419][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223936142c0, Size=432, Default__ChatboxWidget_C Function /Game/ShipsAndExamples/UI/Chatbox/ChatboxWidget.ChatboxWidget_C:ExecuteUbergraph_ChatboxWidget
+[2018.09.14-17.14.17:422][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223933e4700, Size=256, Default__InterractionWidget_C Function /Game/ShipsAndExamples/UI/InterractionWidget.InterractionWidget_C:ExecuteUbergraph_InterractionWidget
+[2018.09.14-17.14.17:423][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223934108b0, Size=48, Default__MessageText_C Function /Game/ShipsAndExamples/UI/Chatbox/MessageText.MessageText_C:ExecuteUbergraph_MessageText
+[2018.09.14-17.14.17:430][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022393414b80, Size=2032, Default__ThirdPersonCharacter_C Function /Game/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.09.14-17.14.17:434][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223932fa200, Size=256, Default__ThirdPersonGameMode_C Function /Game/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.09.14-17.14.17:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022393316780, Size=832, Default__TP_VehicleController_C Function /Game/ShipsAndExamples/CustomThirdPerson/Blueprints/TP_VehicleController.TP_VehicleController_C:ExecuteUbergraph_TP_VehicleController
+[2018.09.14-17.14.17:449][  0]LogBlueprint: Warning: [Compiler ChatboxWidget] [0017.82] Compile of ChatboxWidget successful, but with 1 Warning(s) [in 153 ms] (/Game/ShipsAndExamples/UI/Chatbox/ChatboxWidget.ChatboxWidget)
+[2018.09.14-17.14.17:449][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0017.82] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 153 ms] (/Game/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.09.14-17.14.17:449][  0]LogBlueprint: Warning: [Compiler TP_VehicleController] [0017.82] Compile of TP_VehicleController successful, but with 2 Warning(s) [in 153 ms] (/Game/ShipsAndExamples/CustomThirdPerson/Blueprints/TP_VehicleController.TP_VehicleController)
+[2018.09.14-17.14.17:745][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022393324fe0, Size=72, Default__Trtl_underwater_C Function /Game/Maps/TRTL_MAPS/Trtl_underwater.Trtl_underwater_C:ExecuteUbergraph_Trtl_underwater
+[2018.09.14-17.14.17:753][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Trtl_underwater] Get : 'Opacity' variable not found. Base class was probably changed. /Game/Maps/TRTL_MAPS/Trtl_underwater.Trtl_underwater:PersistentLevel.Trtl_underwater
+[2018.09.14-17.14.17:754][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022393324fe0, Size=72
+[2018.09.14-17.14.17:754][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223933a5b70, Size=72, Default__Trtl_underwater_C Function /Engine/Transient.REINST_Trtl_underwater_C_159:ExecuteUbergraph_Trtl_underwater
+[2018.09.14-17.14.17:756][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223933a6840, Size=72, Default__Trtl_underwater_C Function /Game/Maps/TRTL_MAPS/Trtl_underwater.Trtl_underwater_C:ExecuteUbergraph_Trtl_underwater
+[2018.09.14-17.14.17:757][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Trtl_underwater] [0018.13] Compile of PersistentLevel.Trtl_underwater successful, but with 1 Warning(s) [in 4 ms] (/Game/Maps/TRTL_MAPS/Trtl_underwater.Trtl_underwater:PersistentLevel.Trtl_underwater)
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:720][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:730][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.18:876][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.065776ms] /Game/MY_ASSETS/MESH/TRTL/trtl/trtl.trtl
+[2018.09.14-17.14.18:906][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.390321ms] /Game/MY_ASSETS/MESH/MOARTURTLES/sea_trtle.sea_trtle
+[2018.09.14-17.14.19:390][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.609975ms] /Game/MY_ASSETS/MESH/crab/crab2.crab2
+[2018.09.14-17.14.19:442][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.692540ms] /Game/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.09.14-17.14.19:767][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:767][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:767][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:767][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:767][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:768][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.09.14-17.14.19:896][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_OptionCategories.e_OptionCategories' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.09.14-17.14.20:420][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.293136ms] /Game/Fish/Assets/Mackerel/mack_06.mack_06
+[2018.09.14-17.14.20:437][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.216099ms] /Game/Fish/Assets/BlueFinTuna/bluetuna_07.bluetuna_07
+[2018.09.14-17.14.20:461][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.412839ms] /Game/Fish/Assets/WhiteShark/whitebite_13.whitebite_13
+[2018.09.14-17.14.20:608][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.320790ms] /Game/MY_ASSETS/MESH/Bugs/bug.bug
+[2018.09.14-17.14.20:627][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.512000ms] /Game/Fish/Assets/MakoShark/makoshako_14.makoshako_14
+[2018.09.14-17.14.20:661][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.307753ms] /Game/Fish/Assets/FalseAlbacore/false_05.false_05
+[2018.09.14-17.14.20:668][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.302617ms] /Game/Fish/Assets/YellowFinTuna/yellowtuna_05.yellowtuna_05
+[2018.09.14-17.14.21:144][  0]LogAIModule: Creating AISystem for world Trtl_underwater
+[2018.09.14-17.14.21:146][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/Palm_tree/st_wood.st_wood needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:150][  0]LogMaterial: Missing cached shader map for material st_wood, compiling. 
+[2018.09.14-17.14.21:188][  0]MapCheck: Warning: st_wood Material /Game/MY_ASSETS/MESH/Palm_tree/st_wood.st_wood was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:188][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/Palm_tree/green.green needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:190][  0]LogMaterial: Missing cached shader map for material green, compiling. 
+[2018.09.14-17.14.21:205][  0]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.14-17.14.21:205][  0]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.14-17.14.21:205][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.14-17.14.21:205][  0]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-17.14.21:205][  0]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-17.14.21:205][  0]MapCheck: Warning: green Material /Game/MY_ASSETS/MESH/Palm_tree/green.green was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:206][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/Palm_tree/broun.broun needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:208][  0]LogMaterial: Missing cached shader map for material broun, compiling. 
+[2018.09.14-17.14.21:222][  0]MapCheck: Warning: broun Material /Game/MY_ASSETS/MESH/Palm_tree/broun.broun was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:223][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/Palm_tree/blue.blue needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:225][  0]LogMaterial: Missing cached shader map for material blue, compiling. 
+[2018.09.14-17.14.21:239][  0]MapCheck: Warning: blue Material /Game/MY_ASSETS/MESH/Palm_tree/blue.blue was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:246][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_Mat.coral_uv_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:249][  0]LogMaterial: Missing cached shader map for material coral_uv_Mat, compiling. 
+[2018.09.14-17.14.21:266][  0]MapCheck: Warning: coral_uv_Mat Material /Game/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_Mat.coral_uv_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:266][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Mat.coral2_uv_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:269][  0]LogMaterial: Missing cached shader map for material coral2_uv_Mat, compiling. 
+[2018.09.14-17.14.21:288][  0]MapCheck: Warning: coral2_uv_Mat Material /Game/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Mat.coral2_uv_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:288][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/coral/Coral_4/Material/coral_4_uv_Mat.coral_4_uv_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:291][  0]LogMaterial: Missing cached shader map for material coral_4_uv_Mat, compiling. 
+[2018.09.14-17.14.21:309][  0]MapCheck: Warning: coral_4_uv_Mat Material /Game/MY_ASSETS/MESH/coral/Coral_4/Material/coral_4_uv_Mat.coral_4_uv_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:313][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/coral/Coral_3/materials/uv_coral_3_Mat.uv_coral_3_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:318][  0]LogMaterial: Missing cached shader map for material uv_coral_3_Mat, compiling. 
+[2018.09.14-17.14.21:332][  0]MapCheck: Warning: uv_coral_3_Mat Material /Game/MY_ASSETS/MESH/coral/Coral_3/materials/uv_coral_3_Mat.uv_coral_3_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.21:333][  0]LogMaterial: Warning: Material /Game/MY_ASSETS/MESH/shell/shell_basecolour_Mat.shell_basecolour_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.09.14-17.14.21:336][  0]LogMaterial: Missing cached shader map for material shell_basecolour_Mat, compiling. 
+[2018.09.14-17.14.21:349][  0]MapCheck: Warning: shell_basecolour_Mat Material /Game/MY_ASSETS/MESH/shell/shell_basecolour_Mat.shell_basecolour_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.14-17.14.22:065][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.14-17.14.22:399][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385788a00, Size=472
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238651ce50, Size=72
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238575cd40, Size=424
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223862dcf00, Size=1488
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386473940, Size=192
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386316e80, Size=160
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022381e84b80, Size=96
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223863eeaa0, Size=4
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223862febb0, Size=72
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238659b300, Size=232
+[2018.09.14-17.14.22:400][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223864fcdd8, Size=20
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868717c0, Size=424
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386870b80, Size=424
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238684ec00, Size=1000
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385787040, Size=424
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238585ab00, Size=1488
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868facc0, Size=424
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238681f580, Size=2144
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223867e3c80, Size=424
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874f3900, Size=1752
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223867e3200, Size=424
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022387473740, Size=288
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223873f09c0, Size=200
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223858180a0, Size=32
+[2018.09.14-17.14.22:401][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385819b60, Size=32
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874c31f0, Size=40
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385819a60, Size=32
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868d7270, Size=56
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238741ca30, Size=112
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238741ce20, Size=112
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874c2048, Size=40
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002238601c400, Size=592
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223874c02e8, Size=40
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022386d91900, Size=344
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385f30e00, Size=640
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a3ad7fc0, Size=8
+[2018.09.14-17.14.22:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a4a60280, Size=368
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7e75520, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5c8e0, Size=200
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7e74fe0, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5f040, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5ebe0, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5e780, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5e320, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5dec0, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5da60, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5d600, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5d1a0, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5cd40, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7e74b80, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7e74720, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7e742c0, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5fd60, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5f900, Size=208
+[2018.09.14-17.14.22:403][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7d5f4a0, Size=208
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7ab98a0, Size=208
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7aba6a0, Size=208
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a79801e0, Size=208
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a774a320, Size=224
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a79ac800, Size=1248
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a766ea00, Size=464
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7660f00, Size=200
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a80be320, Size=208
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7ff5800, Size=544
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a8747700, Size=336
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7689210, Size=40
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a8165800, Size=640
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7b441f0, Size=4
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223ad59abb0, Size=72
+[2018.09.14-17.14.22:404][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022392c90800, Size=864
+[2018.09.14-17.14.22:405][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022392c88b80, Size=2032
+[2018.09.14-17.14.22:405][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a7988e00, Size=256
+[2018.09.14-17.14.22:405][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022392b20e80, Size=384
+[2018.09.14-17.14.22:405][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022385b9f610, Size=48
+[2018.09.14-17.14.22:405][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022392be1ec0, Size=432
+[2018.09.14-17.14.22:405][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022392c86fc0, Size=264
+[2018.09.14-17.14.22:406][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223933a5b70, Size=72
+[2018.09.14-17.14.22:422][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-17.14.22:607][  0]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 184.188ms to complete.
+[2018.09.14-17.14.22:618][  0]LogFileHelpers: Loading map 'Trtl_underwater' took 7.574
+[2018.09.14-17.14.22:670][  0]LogShaderCompilers: Display: Shaders left to compile 344
+[2018.09.14-17.14.22:788][  0]LogCollectionManager: Loaded 0 collections in 0.002797 seconds
+[2018.09.14-17.14.22:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Saved/Collections/' took 0.01s
+[2018.09.14-17.14.22:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Developers/oiboo/Collections/' took 0.01s
+[2018.09.14-17.14.22:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Collections/' took 0.01s
+[2018.09.14-17.14.22:833][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.14-17.14.22:849][  0]LogContentBrowser: Native class hierarchy populated in 0.0154 seconds. Added 2476 classes and 575 folders.
+[2018.09.14-17.14.22:859][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.09.14-17.14.22:920][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.09.14-17.14.22:930][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.09.14-17.14.23:172][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.09.14-17.14.23:172][  0]LogLoad: (Engine Initialization) Total time: 23.54 seconds
+[2018.09.14-17.14.23:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.14-17.14.23:191][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.14-17.14.23:215][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.14-17.14.23:217][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.14-17.14.23:218][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.14-17.14.23:231][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.14-17.14.23:440][  0]LogRenderer: Reallocating scene render targets to support 684x332 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-17.14.23:806][  3]LogAssetRegistry: Asset discovery search completed in 13.7749 seconds
+[2018.09.14-17.14.23:811][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.14-17.14.23:811][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000118 seconds (updated 0 objects)
+[2018.09.14-17.14.24:222][ 20]LogShaderCompilers: Display: Shaders left to compile 334
+[2018.09.14-17.14.24:501][ 33]LogShaderCompilers: Display: Shaders left to compile 324
+[2018.09.14-17.14.27:045][100]LogShaderCompilers: Display: Shaders left to compile 314
+[2018.09.14-17.14.27:045][100]LogShaderCompilers: Display: Shaders left to compile 304
+[2018.09.14-17.14.27:046][100]LogShaderCompilers: Display: Shaders left to compile 294
+[2018.09.14-17.14.27:097][100]LogRenderer: Reallocating scene render targets to support 684x544 Format 10 NumSamples 1 (Frame:49).
+[2018.09.14-17.14.28:154][105]LogShaderCompilers: Display: Shaders left to compile 284
+[2018.09.14-17.14.28:489][106]LogShaderCompilers: Display: Shaders left to compile 274
+[2018.09.14-17.14.29:163][108]LogShaderCompilers: Display: Shaders left to compile 264
+[2018.09.14-17.14.29:820][110]LogShaderCompilers: Display: Shaders left to compile 254
+[2018.09.14-17.14.30:154][111]LogShaderCompilers: Display: Shaders left to compile 244
+[2018.09.14-17.14.31:153][114]LogShaderCompilers: Display: Shaders left to compile 234
+[2018.09.14-17.14.31:495][115]LogShaderCompilers: Display: Shaders left to compile 224
+[2018.09.14-17.14.31:822][116]LogShaderCompilers: Display: Shaders left to compile 214
+[2018.09.14-17.14.32:139][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-17.14.32:163][116]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-17.14.32:419][131]LogShaderCompilers: Display: Shaders left to compile 204
+[2018.09.14-17.14.33:694][201]LogShaderCompilers: Display: Shaders left to compile 194
+[2018.09.14-17.14.34:203][230]LogShaderCompilers: Display: Shaders left to compile 184
+[2018.09.14-17.14.35:082][262]LogShaderCompilers: Display: Shaders left to compile 174
+[2018.09.14-17.14.35:887][309]LogShaderCompilers: Display: Shaders left to compile 164
+[2018.09.14-17.14.35:925][310]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-17.14.35:942][310]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\oiboo\Downloads\rpg_sound_pack\RPG Sound Pack\world\door.wav)
+[2018.09.14-17.14.35:942][310]Error: Currently, only 16 bit WAV files are supported (door).
+[2018.09.14-17.14.36:286][310]LogShaderCompilers: Display: Shaders left to compile 154
+[2018.09.14-17.14.36:733][310]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.09.14-17.14.37:758][310]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.09.14-17.14.38:131][310]LogSlate: Window 'Message' being destroyed
+[2018.09.14-17.14.38:134][310]LogAssetTools: Warning: Failed to import 'C:\Users\oiboo\Downloads\rpg_sound_pack\RPG Sound Pack\world\door.wav'. Failed to create asset '/Game/Audio/door'.
+Please see Output Log for details.
+[2018.09.14-17.14.38:568][334]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.09.14-17.14.38:831][349]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.09.14-17.14.40:139][388]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.14-17.14.40:482][389]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.14-17.14.41:140][391]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.14-17.14.41:471][392]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.14-17.14.42:473][395]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.14-17.14.42:836][396]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.14-17.14.43:145][397]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.14-17.14.44:143][400]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.14-17.14.44:586][400]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.14-17.14.44:586][400]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-17.14.45:925][478]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-17.16.01:375][497]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/oiboo/Downloads/rpg_sound_pack/RPG Sound Pack/world/door.wav)
+[2018.09.14-17.16.01:375][497]Error: Currently, only 16 bit WAV files are supported (door).
+[2018.09.14-17.16.11:710][497]LogSlate: Window 'Message' being destroyed
+[2018.09.14-17.16.11:716][497]LogAssetTools: Warning: Failed to import '../../../../../../Users/oiboo/Downloads/rpg_sound_pack/RPG Sound Pack/world/door.wav'. Failed to create asset '/Game/Audio/door'.
+Please see Output Log for details.
+[2018.09.14-17.16.47:474][328]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.09.14-17.26.38:772][414]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\oiboo\Documents\Audacity\bite.wav)
+[2018.09.14-17.26.38:779][414]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\oiboo\Documents\Audacity\bubble.wav)
+[2018.09.14-17.26.38:784][414]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\oiboo\Documents\Audacity\chest.wav)
+[2018.09.14-17.26.41:811][420]LogSlate: Window 'Save Content' being destroyed
+[2018.09.14-17.26.41:841][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/bite" FILE="../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bite.uasset" SILENT=true
+[2018.09.14-17.26.41:852][420]LogSavePackage: Save=8.20ms
+[2018.09.14-17.26.41:852][420]LogSavePackage: Moving '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Saved/bite44EB2CF148D9E2783D7668B2AB83E551.tmp' to '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bite.uasset'
+[2018.09.14-17.26.41:854][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bite.uasset
+[2018.09.14-17.26.41:866][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/bubble" FILE="../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bubble.uasset" SILENT=true
+[2018.09.14-17.26.41:876][420]LogSavePackage: Save=8.00ms
+[2018.09.14-17.26.41:876][420]LogSavePackage: Moving '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Saved/bubbleDAB35C674F38267A50AB7F90F0B36848.tmp' to '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bubble.uasset'
+[2018.09.14-17.26.41:879][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bubble.uasset
+[2018.09.14-17.26.41:889][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/chest" FILE="../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/chest.uasset" SILENT=true
+[2018.09.14-17.26.41:904][420]LogSavePackage: Save=11.79ms
+[2018.09.14-17.26.41:904][420]LogSavePackage: Moving '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Saved/chest7557ACF1463587DD3DA395AE6DC6B996.tmp' to '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/chest.uasset'
+[2018.09.14-17.26.41:907][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/chest.uasset
+[2018.09.14-17.26.45:724][646]LogRenderer: Reallocating scene render targets to support 1032x556 Format 10 NumSamples 1 (Frame:2286).
+[2018.09.14-17.26.53:824][110]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.09.14-17.26.54:213][110]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223d6a2cde0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.14-17.26.54:214][110]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223d6a2ccd8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.14-17.26.54:798][110]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.14-17.26.59:796][357]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.14-17.27.15:150][200]BlueprintLog: New page: Compile ThirdPersonCharacter_trt
+[2018.09.14-17.27.17:093][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223868a2b00, Size=1488
+[2018.09.14-17.27.17:093][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022429b99600, Size=1488, Default__ThirdPersonCharacter_trt_C Function /Engine/Transient.REINST_ThirdPersonCharacter_trt_C_266:ExecuteUbergraph_ThirdPersonCharacter_trt
+[2018.09.14-17.27.17:138][200]LogUObjectGlobals: Created PersistentFrame Addr=0x00000223aec90100, Size=1488, Default__ThirdPersonCharacter_trt_C Function /Game/MY_ASSETS/BP/TRTL/ThirdPersonCharacter_trt.ThirdPersonCharacter_trt_C:ExecuteUbergraph_ThirdPersonCharacter_trt
+[2018.09.14-17.27.18:694][201]LogSavePackage: Save=344.82ms
+[2018.09.14-17.27.18:694][201]LogSavePackage: Moving '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Saved/ThirdPersonCharacter_trtDF06C7EC4D5664FB85D67ABB9ED24EF6.tmp' to '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/ThirdPersonCharacter_trt.uasset'
+[2018.09.14-17.27.18:698][201]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/ThirdPersonCharacter_trt.uasset
+[2018.09.14-17.27.20:718][310]LogSlate: Window 'ThirdPersonCharacter_trt' being destroyed
+[2018.09.14-17.27.20:727][310]LogSlate: Window 'ThirdPersonCharacter_trt' being destroyed
+[2018.09.14-17.27.24:695][541]LogAudioDerivedData: Display: Building compressed audio format OGG wave bite...
+[2018.09.14-17.27.24:724][541]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/bite.bite.
+[2018.09.14-17.27.35:090][161]LogEditorViewport: Clicking on Actor (LMB): bp_oxygen_vent_C (bp_oxygen_vent)
+[2018.09.14-17.27.37:773][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-17.28.05:456][949]BlueprintLog: New page: Compile bp_oxygen_vent
+[2018.09.14-17.28.05:467][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000223a872ac80, Size=336
+[2018.09.14-17.28.05:468][949]LogUObjectGlobals: Created PersistentFrame Addr=0x000002246fcc2380, Size=336, Default__bp_oxygen_vent_C Function /Engine/Transient.REINST_bp_oxygen_vent_C_270:ExecuteUbergraph_bp_oxygen_vent
+[2018.09.14-17.28.05:471][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022466d7b100, Size=336, Default__bp_oxygen_vent_C Function /Game/MY_ASSETS/BP/Coral/oxygen_vent/bp_oxygen_vent.bp_oxygen_vent_C:ExecuteUbergraph_bp_oxygen_vent
+[2018.09.14-17.28.06:662][971]LogSavePackage: Save=32.47ms
+[2018.09.14-17.28.06:662][971]LogSavePackage: Moving '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Saved/bp_oxygen_vent0D29EC5F49A538BB018A06AFBF4544CD.tmp' to '../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Coral/oxygen_vent/bp_oxygen_vent.uasset'
+[2018.09.14-17.28.06:665][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Coral/oxygen_vent/bp_oxygen_vent.uasset
+[2018.09.14-17.28.13:582][382]LogSlate: Window 'bp_oxygen_vent' being destroyed
+[2018.09.14-17.28.13:587][382]LogSlate: Window 'bp_oxygen_vent' being destroyed
+[2018.09.14-17.28.24:199][990]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.365 s
+[2018.09.14-17.28.24:199][990]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.14-17.28.24:199][990]LogOutputDevice: Error: 
+[2018.09.14-17.28.24:199][990]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2018.09.14-17.28.24:199][990]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2018.09.14-17.28.24:200][990]LogOutputDevice: Error: Stack: 
+[2018.09.14-17.28.24:200][990]LogOutputDevice: Error: [Callstack] 0x000000002320B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-17.28.24:200][990]LogOutputDevice: Error: [Callstack] 0x0000000022F6AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-17.28.24:200][990]LogOutputDevice: Error: [Callstack] 0x0000000022F7ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-17.28.24:200][990]LogOutputDevice: Error: [Callstack] 0x00000000208690B0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:201][990]LogOutputDevice: Error: [Callstack] 0x0000000020850A22 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:201][990]LogOutputDevice: Error: [Callstack] 0x000000002037F3C0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:201][990]LogOutputDevice: Error: [Callstack] 0x0000000020387C6A UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:201][990]LogOutputDevice: Error: [Callstack] 0x000000002036484A UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:201][990]LogOutputDevice: Error: [Callstack] 0x000000002038C349 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:201][990]LogOutputDevice: Error: [Callstack] 0x0000000020CF33D4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x0000000020CF37E7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x000000001E9EBFB5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x000000001F1F607E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x000000001F18DC02 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x000000001EE6A184 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x000000001E677AE2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:202][990]LogOutputDevice: Error: [Callstack] 0x000000001E5AE728 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x000000001E95C1DF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x000000001F1F9626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x0000000060C95EAC UE4Editor.exe!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x0000000060CA6BD0 UE4Editor.exe!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x0000000060CA6C4A UE4Editor.exe!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x0000000060CB4177 UE4Editor.exe!UnknownFunction []
+[2018.09.14-17.28.24:203][990]LogOutputDevice: Error: [Callstack] 0x0000000060CB5B87 UE4Editor.exe!UnknownFunction []
+[2018.09.14-17.28.24:204][990]LogOutputDevice: Error: [Callstack] 0x00000000649C3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.14-17.28.24:204][990]LogOutputDevice: Error: [Callstack] 0x00000000651C1461 ntdll.dll!UnknownFunction []
+[2018.09.14-17.28.24:204][990]LogOutputDevice: Error: 
+[2018.09.14-17.28.24:205][990]LogStats:                SubmitErrorReport -  0.000 s
