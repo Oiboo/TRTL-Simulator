@@ -1,0 +1,870 @@
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bubble.uasset" 0
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bubble_Cue.uasset" 1
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/chest.uasset" 2
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/chest_Cue.uasset" 3
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/Coin.uasset" 4
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/Coin_Cue.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/PatrolPoint.uasset" 7
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/Structures/s_DialogueInfo.uasset" 8
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/Enums/e_OptionCategories.uasset" 9
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/Structures/s_OptionInfo.uasset" 10
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/Structures/s_DecisionInfo.uasset" 11
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Fonts/Adobe_Devanagari_Bold_Italic.uasset" 12
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Fonts/iskpota.uasset" 13
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Fonts/Georgia_Italic.uasset" 14
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/OptionBorder.uasset" 15
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/SelectionArrow.uasset" 16
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/ShopIcon.uasset" 17
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Widgets/DecisionOption.uasset" 18
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/BarDef.uasset" 19
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/BarFill.uasset" 20
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/BarHandle2.uasset" 21
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/DialogueTextBorder.uasset" 22
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/NameBorder.uasset" 23
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Widgets/DecisionDialogue.uasset" 24
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_Skeleton.uasset" 25
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_Anim_idol.uasset" 26
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_Anim_spin_001.uasset" 27
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_Anim_swim_002.uasset" 28
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/trtl_blendspace.uasset" 29
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/TRTl_anim_BP.uasset" 30
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_Anim_TRTL_spin.uasset" 31
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/LVL_up_pert/grn.uasset" 32
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/LVL_up_pert/grn_Mat.uasset" 33
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bask_spot/Bask_spot.uasset" 34
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bask_spot/bask_spot_widghet.uasset" 35
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bask_spot/z.uasset" 36
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bask_spot/z_Mat.uasset" 37
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bask_spot/Bask_spot_zzz.uasset" 38
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bask_spot/Bask_spot_BP.uasset" 39
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/Fish_spawn_area.uasset" 40
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bite.uasset" 41
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/LVL_up_pert/+.uasset" 42
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/LVL_up_pert/+_Mat.uasset" 43
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/LVL_UP.uasset" 44
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/compass/Compass_Marker.uasset" 45
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/compass/Compass_Objective.uasset" 46
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/compass/Compass_Points.uasset" 47
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Compass_widget.uasset" 48
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Death/you_died.uasset" 49
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Death/Death.uasset" 50
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Depth_guage/danger.uasset" 51
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Depth_guage/depth_guage.uasset" 52
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Depth_guage.uasset" 53
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Hud_health_score.uasset" 54
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/NeW_DAY/New_day.uasset" 55
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Missions/Parent_class/BP_mission.uasset" 56
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Missions/BP_mission_Child.uasset" 57
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/Widget/Save_obj_BP.uasset" 58
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/Food_s.uasset" 59
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/BG_border.uasset" 60
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/bgbg.uasset" 61
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/character_stats.uasset" 62
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/contine.uasset" 63
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/empty_button_.uasset" 64
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/Map.uasset" 65
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/pointer.uasset" 66
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/quit.uasset" 67
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/settings.uasset" 68
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/Top_tab.uasset" 69
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Pause_widget.uasset" 70
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/TIMER_WIDGET.uasset" 71
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/bubble/bubble2.uasset" 72
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/bubble/bubble2_Mat.uasset" 73
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/bubble/Bubble_emmitter.uasset" 74
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_uv.uasset" 75
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_uv_Mat.uasset" 76
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl_PhysicsAsset.uasset" 77
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/TRTL/trtl/trtl.uasset" 78
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/TRTL/ThirdPersonCharacter_trt.uasset" 79
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/ContinueArrow.uasset" 80
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Widgets/DefaultDialogue.uasset" 81
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Widgets/MainWidget.uasset" 82
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/BP_DialogueManager.uasset" 83
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Missions/Nav_OBjectives/Navv_point_bp.uasset" 84
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/MOARTURTLES/10042_Sea_Turtle_V1_Diffuse.uasset" 85
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/MOARTURTLES/_10042_Sea_Turtle_V2_iterations_0_10042_Sea_Turtle_V2_iteration1.uasset" 86
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/Structures/s_NPCText.uasset" 87
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Widgets/NPCText.uasset" 88
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Widgets/NPCWidget.uasset" 89
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/Enums/e_DialogueSelectionTypes.uasset" 90
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/MOARTURTLES/sea_trtle_PhysicsAsset.uasset" 91
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/MOARTURTLES/sea_trtle_Skeleton.uasset" 92
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/MOARTURTLES/sea_trtle.uasset" 93
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/Bp_MasterNPC.uasset" 94
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/Bp_CasualCitizen.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 96
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 97
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 98
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 99
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Boat/trawl_Cube_001.uasset" 100
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Boat/boat.uasset" 101
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Boat/Fishing_boat.uasset" 102
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Boat/trawl_Cube.uasset" 103
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Enums/E_Goalstates.uasset" 104
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Enums/E_quest_states.uasset" 105
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Enums/E_goal_type.uasset" 106
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Structures/S_Goal_Locatin.uasset" 107
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Structures/S_Goal_info.uasset" 108
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Structures/S_completedGoals.uasset" 109
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Enums/E_quest_catagory.uasset" 110
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Enums/E_Regions.uasset" 111
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Structures/S-Quest_Reward.uasset" 112
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Structures/S_QuestInfo.uasset" 113
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 114
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 115
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/compass/Compass_Marker_Sprite.uasset" 116
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/MAIN_MENU/Menu_assets/trtl_sim_case.uasset" 117
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Map/Main_map.uasset" 118
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Estre.uasset" 119
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Estre_Font.uasset" 120
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgia_Bold.uasset" 121
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgia_Bold_Font.uasset" 122
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgia.uasset" 123
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgia_Font.uasset" 124
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgia_Itallic.uasset" 125
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgia_Itallic_Font.uasset" 126
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgie_BoldItallic.uasset" 127
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Font/Georgie_BoldItallic_Font.uasset" 128
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/Main_menu_persistent.uasset" 129
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/Missionbox.uasset" 130
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/mission_desc.uasset" 131
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/Top_tab_non_hov.uasset" 132
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/Fish_marker.uasset" 133
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/CancelButtonDef.uasset" 134
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/CancelButtonHov.uasset" 135
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/CancelButtonPress.uasset" 136
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/CategoryBg.uasset" 137
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/CompletedGoalIcon.uasset" 138
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/CurrentGoalIcon.uasset" 139
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/ExpandButton.uasset" 140
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/ExpIcon.uasset" 141
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/FailedGoalIcon.uasset" 142
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/LevelBg.uasset" 143
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/PPIcon.uasset" 144
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/QuestButtonDef.uasset" 145
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/QuestButtonDis.uasset" 146
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/QuestButtonHov.uasset" 147
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/QuestButtonPress.uasset" 148
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/QuestJournalBg.uasset" 149
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/QuestJournalBorder.uasset" 150
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/SelectButtonDef.uasset" 151
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/SelectButtonHov.uasset" 152
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/SelectButtonPress.uasset" 153
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/texture/QuestPackV5/Spacer.uasset" 154
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 155
+"../../../Engine/Content/BasicShapes/Cone.uasset" 156
+"../../../Engine/Content/BasicShapes/Cube.uasset" 157
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 158
+"../../../Engine/Content/BasicShapes/Plane.uasset" 159
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 160
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 161
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 162
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 163
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 164
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 165
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 168
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 169
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 170
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 171
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 172
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 174
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 177
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 178
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 179
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 180
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 181
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 182
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 183
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 184
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 185
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 186
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 187
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 188
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 189
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 190
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 191
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 192
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 193
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 194
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 195
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 196
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 197
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 198
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 199
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 200
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 201
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 202
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 203
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 204
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 205
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 206
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 207
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 208
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 209
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 210
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 211
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 214
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 215
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 216
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 217
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 218
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 219
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 220
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 221
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 222
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 230
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 233
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 235
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 236
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 237
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 239
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 240
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 241
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 243
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 244
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 245
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 251
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 252
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 253
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 254
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 255
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 256
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 257
+"../../../Engine/Content/EngineSounds/Master.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 259
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 260
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 261
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 262
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 263
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 281
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 282
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 283
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 284
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 285
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 286
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 287
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 288
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 289
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 290
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 291
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 292
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 293
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 294
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 295
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 296
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 297
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 298
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 299
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 301
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 302
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 303
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 304
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 305
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 306
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 307
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 308
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 309
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 310
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 311
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 312
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 313
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 314
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 315
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 316
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 317
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 318
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 319
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 320
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 321
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 322
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 323
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 324
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 325
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 326
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 327
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 328
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 329
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 330
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 331
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 332
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 333
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 334
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 335
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 336
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 337
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 338
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 339
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 340
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 341
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 342
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 343
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 344
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 345
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 346
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 347
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 348
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 349
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 350
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 351
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 352
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 353
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 354
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 355
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 356
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 357
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 358
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 359
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 360
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 361
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 362
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 363
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 365
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 366
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 368
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 369
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 370
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 371
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 372
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 373
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 374
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 375
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 376
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 377
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 379
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 380
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 381
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 382
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 383
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 384
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 385
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Curves/CC_Sky_Cloud_Color.uasset" 386
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Curves/CC_Sky_Horizon_Color.uasset" 387
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Curves/CC_Sky_Sun_Color.uasset" 388
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Curves/CC_Sky_Zenith_Color.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 391
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Clouds02_normal.uasset" 392
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Clouds03_normal.uasset" 393
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Clouds_M.uasset" 394
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/M_Clouds.uasset" 395
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 396
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/RotateVector.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 399
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 400
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 402
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/MF_SkyboxImage.uasset" 403
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_MilkyWay.uasset" 404
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Moon_D.uasset" 405
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Sphere_N.uasset" 406
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/M_Sky_New.uasset" 407
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/M_Sky_Old.uasset" 408
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/MPC_Ocean.uasset" 409
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/TC_CubemapCapture.uasset" 410
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Snow/Textures/T_Flake1b.uasset" 411
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Snow/Materials/FX_simpleSnow_mblur.uasset" 412
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Snow/Materials/FX_simpleSnow_mblur_INST.uasset" 413
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/Assets/Elemental/Effects/Vectors/EyeVectors_rightEye_55.uasset" 414
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Atmospherics/Effects/P_Blowing_Snow.uasset" 415
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Meshes/SM_CloudSurface.uasset" 416
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Meshes/SM_SkySphere.uasset" 417
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/M_lightning.uasset" 418
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Meshes/SM_lightning.uasset" 419
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/ParticleFX/P_lightning_point.uasset" 420
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/BP_Sky.uasset" 421
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 423
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/MF_Gerstner_Wave.uasset" 424
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/MF_Gerstner_Wave_Set.uasset" 425
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 426
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/Motion_4WayChaos_NormalShared.uasset" 427
+"../../../Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset" 428
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/Motion_4WayChaosShared.uasset" 429
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/SSS.uasset" 430
+"../../../Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset" 431
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Foam_D.uasset" 432
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Foam_normal.uasset" 433
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Foam_roughness.uasset" 434
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_LargeWaves_H.uasset" 435
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Perlin_Noise_M.uasset" 436
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Seafoam_01.uasset" 437
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean.uasset" 438
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 439
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset" 440
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Gradients/SmoothCurve.uasset" 441
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float3.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 443
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset" 444
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 445
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 446
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/MF_OceanSSS.uasset" 447
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/MF_Panner.uasset" 448
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_LargeWaves_N.uasset" 449
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_OceanFoam02_normal.uasset" 450
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_OceanFoam02_Rotated_normal.uasset" 451
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_OceanFoam_01.uasset" 452
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_OceanFoam_M.uasset" 453
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Sky_Non_HDRI.uasset" 454
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Water_N.uasset" 455
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_Old.uasset" 456
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_SSR.uasset" 457
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/MF_HeightModulation.uasset" 458
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_Depth.uasset" 459
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Depth.uasset" 460
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Depth_Nogerstner.uasset" 461
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Depth_Ultra.uasset" 462
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Foam.uasset" 463
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Foam_Cubemap.uasset" 464
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Nogerstner.uasset" 465
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_SSR_Foam.uasset" 466
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_SSR_Foam_Cubemap.uasset" 467
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_SSR_Nogerstner.uasset" 468
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 469
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 470
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 471
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/T_ExampleTerrainHeightmap.uasset" 472
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_Ultra.uasset" 473
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Ultra.uasset" 474
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Meshes/SM_OceanTop.uasset" 475
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Meshes/SM_UnderWater2.uasset" 476
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/OceanShaderEnum.uasset" 477
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/WaveIcon.uasset" 478
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/BP_Ocean.uasset" 479
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/MAIN_MENU/Menu_assets/controlls.uasset" 480
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/MAIN_MENU/Main_menu.uasset" 481
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/MAIN_MENU/Hud_holder.uasset" 482
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/MAIN_MENU/Main_menu_controller.uasset" 483
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/MAIN_MENU/Menu_game_mode.uasset" 484
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Main_menu.umap" 485
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/Dont_go_too_deep.uasset" 486
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Textures/EndDialogIcon.uasset" 487
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Pause/Images/mission.uasset" 488
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/mission/Bask_terry.uasset" 489
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/mission/Lost_kid.uasset" 490
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/mission/Lost_my_kids.uasset" 491
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/mission/Lost_my_shell.uasset" 492
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/mission/no_reason.uasset" 493
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/DialogueSystem/Blueprints/AI/mission/Tutorial_trtl.uasset" 494
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/Crab_target_point.uasset" 495
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/Crab_board.uasset" 496
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Attack_animation_crab.uasset" 497
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Clear_focus_crab.uasset" 498
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Get_player_location_crab.uasset" 499
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Get_target_location_point.uasset" 500
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/GetRoamLocationCrab.uasset" 501
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Go_to_last_known_location_Crab.uasset" 502
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Move_to_player.uasset" 503
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/ai_tree_tasks/Set_player_focus_crab.uasset" 504
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/Crab_tree.uasset" 505
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/CRAB/Crab_controller.uasset" 506
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/crab_text.uasset" 507
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/crab_text_Mat.uasset" 508
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/BodyShell.uasset" 509
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/legs.uasset" 510
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/pup.uasset" 511
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/whites.uasset" 512
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/crab2_PhysicsAsset.uasset" 513
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/crab2_Skeleton.uasset" 514
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/crab/crab2.uasset" 515
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/AI/BP_Crab.uasset" 516
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/FISH_CAGE.uasset" 517
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Missions/Parent_class/Mission_complete.uasset" 518
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/PostProcessing/water/Water_BP.uasset" 519
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/racering/coin/coin_spawner.uasset" 520
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coin/coin_uv.uasset" 521
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coin/coin_uv_Mat.uasset" 522
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coin/coin.uasset" 523
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Collectables/colects/coin.uasset" 524
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/race_ring/race_ring_uv.uasset" 525
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/race_ring/race_ring_uv_Mat.uasset" 526
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/race_ring/race_ring.uasset" 527
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/racering/Parent_class/Race_ring.uasset" 528
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Curves/FC_Moon_Rotation.uasset" 529
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Curves/FC_Sun_Zenith.uasset" 530
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 531
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 532
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Moon_AO.uasset" 533
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Moon_Diffuse.uasset" 534
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Textures/T_Moon_Height.uasset" 535
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/M_Moon.uasset" 536
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Materials/M_Sky.uasset" 537
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Meshes/Moon.uasset" 538
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Meshes/SM_RotatorCube.uasset" 539
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Sky/Old/BP_Skydome.uasset" 540
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Mackerel/mack_texture2.uasset" 541
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Mackerel/mack_texture.uasset" 542
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Mackerel/mack_06_PhysicsAsset.uasset" 543
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Mackerel/mack_06_Skeleton.uasset" 544
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Mackerel/mack_06.uasset" 545
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Mackerel.uasset" 546
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish01_0.uasset" 547
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish01_Mat.uasset" 548
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish01.uasset" 549
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_01.uasset" 550
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish02_0.uasset" 551
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish02_Mat.uasset" 552
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish02.uasset" 553
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_02.uasset" 554
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish03_0.uasset" 555
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish03_Mat.uasset" 556
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish03.uasset" 557
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_03.uasset" 558
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish04_0.uasset" 559
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish04_Mat.uasset" 560
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish04.uasset" 561
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_04.uasset" 562
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish05_0.uasset" 563
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish05_Mat.uasset" 564
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish05.uasset" 565
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_05.uasset" 566
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish06_0.uasset" 567
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish06_Mat.uasset" 568
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish06.uasset" 569
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_06.uasset" 570
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish07_0.uasset" 571
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish07_Mat.uasset" 572
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish07.uasset" 573
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_07.uasset" 574
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish08_0.uasset" 575
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish08_Mat.uasset" 576
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish08.uasset" 577
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_08.uasset" 578
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish09_0.uasset" 579
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish09_Mat.uasset" 580
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish09.uasset" 581
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_09.uasset" 582
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish10_0.uasset" 583
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish10_Mat.uasset" 584
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish10.uasset" 585
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_10.uasset" 586
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish11_0.uasset" 587
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish11_Mat.uasset" 588
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish11.uasset" 589
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_11.uasset" 590
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish12_0.uasset" 591
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish12_Mat.uasset" 592
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish12.uasset" 593
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_12.uasset" 594
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish13_0.uasset" 595
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish13_Mat.uasset" 596
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish13.uasset" 597
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_13.uasset" 598
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish14_0.uasset" 599
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish14_Mat.uasset" 600
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish14.uasset" 601
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_14.uasset" 602
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish15_0.uasset" 603
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish15_Mat.uasset" 604
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/Tropical_fish/TropicalFish15.uasset" 605
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Tropical_15.uasset" 606
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/WhiteShark/whitebite_texture2.uasset" 607
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/WhiteShark/whitebite_texture.uasset" 608
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/WhiteShark/whitebite_13_PhysicsAsset.uasset" 609
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/WhiteShark/whitebite_13_Skeleton.uasset" 610
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/WhiteShark/whitebite_13.uasset" 611
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_WhiteShark.uasset" 612
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/BlueFinTuna/bluetuna_texture2.uasset" 613
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/BlueFinTuna/bluetuna_texture.uasset" 614
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/BlueFinTuna/bluetuna_07_PhysicsAsset.uasset" 615
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/BlueFinTuna/bluetuna_07_Skeleton.uasset" 616
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/BlueFinTuna/bluetuna_07.uasset" 617
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_BlueFinTuna.uasset" 618
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/YellowFinTuna/yellowtuna_texture2.uasset" 619
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/YellowFinTuna/yellowtuna_texture.uasset" 620
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/YellowFinTuna/yellowtuna_05_PhysicsAsset.uasset" 621
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/YellowFinTuna/yellowtuna_05_Skeleton.uasset" 622
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/YellowFinTuna/yellowtuna_05.uasset" 623
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_YellowFinTuna.uasset" 624
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/FalseAlbacore/false_texture2.uasset" 625
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/FalseAlbacore/false_texture.uasset" 626
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/FalseAlbacore/false_05_PhysicsAsset.uasset" 627
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/FalseAlbacore/false_05_Skeleton.uasset" 628
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/FalseAlbacore/false_05.uasset" 629
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_FalseAlbacore.uasset" 630
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/jellyfish/Jellyfish2.uasset" 631
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/jellyfish/Jellyfish1.uasset" 632
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/jellyfish/Jellyfish.uasset" 633
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_Jellyfish.uasset" 634
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/MakoShark/makoshako_texture2.uasset" 635
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/MakoShark/makoshako_texture.uasset" 636
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/MakoShark/makoshako_14_PhysicsAsset.uasset" 637
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/MakoShark/makoshako_14_Skeleton.uasset" 638
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Assets/MakoShark/makoshako_14.uasset" 639
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Fish/Blueprints/Underwater_Life/North_Atlantic/BP_MakoShark.uasset" 640
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/bugs.uasset" 641
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Bugs/pug_uv.uasset" 642
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Bugs/pug_uv_Mat.uasset" 643
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Bugs/bug_PhysicsAsset.uasset" 644
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Bugs/bug_Skeleton.uasset" 645
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Bugs/bug.uasset" 646
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Bugs/Bugs.uasset" 647
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/3metal_texture_prew_100617.uasset" 648
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/Material.uasset" 649
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/wood-dark-construction-301378.uasset" 650
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/Material_001.uasset" 651
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/skull.uasset" 652
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/Material_002.uasset" 653
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/treasure_chest_bottom.uasset" 654
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/Material1.uasset" 655
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/Material_003.uasset" 656
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Treasure_chest/treasure_chest_top.uasset" 657
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Collectables/Bp_treasure_chest.uasset" 658
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Shell_collect/250px-TurtleShellNewFarket.uasset" 659
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Shell_collect/Material.uasset" 660
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Shell_collect/shell.uasset" 661
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Collectables/colects/Mission_obj_pickup.uasset" 662
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv.uasset" 663
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/M_Health.uasset" 664
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 665
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_Mat.uasset" 666
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/coral.uasset" 667
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Coral/Coral.uasset" 668
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/oxygen/M_Water_Lake.uasset" 669
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/oxygen/bubble.uasset" 670
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Coral/oxygen_vent/BP_bubble.uasset" 671
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/oxygen/unwater_rock_texture.uasset" 672
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/oxygen/Material.uasset" 673
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/oxygen/oxygen_vent.uasset" 674
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Coral/oxygen_vent/bp_oxygen_vent.uasset" 675
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/Missions/Mission_complete_get_to_pool.uasset" 676
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/BP/racering/Race_ring_Child.uasset" 677
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/HUD/Main_hud.uasset" 678
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 679
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 680
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPerson_Jump.uasset" 681
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 682
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.uasset" 683
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPersonIdle.uasset" 684
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPersonRun.uasset" 685
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPersonWalk.uasset" 686
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 687
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 688
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/UI/InteractInterface.uasset" 689
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Blueprints/CustomMacros.uasset" 690
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 691
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 692
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 693
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 694
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 695
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 696
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 697
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 698
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 699
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 700
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 701
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 702
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 703
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 704
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 705
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 706
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 707
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 708
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.uasset" 709
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonCharacter.uasset" 710
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/UI/Chatbox/MessageText.uasset" 711
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/UI/Chatbox/ChatboxWidget.uasset" 712
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/UI/InterractionWidget.uasset" 713
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Blueprints/TP_VehicleController.uasset" 714
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/ShipsAndExamples/CustomThirdPerson/Blueprints/ThirdPersonGameMode.uasset" 715
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_sharedassets/Coral_colour_LayerInfo.uasset" 716
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_sharedassets/Coral_plain_LayerInfo.uasset" 717
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_sharedassets/dirty_LayerInfo.uasset" 718
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_sharedassets/Grass_LayerInfo.uasset" 719
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_sharedassets/rock_LayerInfo.uasset" 720
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_sharedassets/Sand_LayerInfo.uasset" 721
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater_BuiltData.uasset" 722
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_D.uasset" 723
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Terrain/Textures/T_Dirt_N.uasset" 724
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Textures/T_CliffRock_03_N.uasset" 725
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Textures/T_CliffRockTile_03_D.uasset" 726
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/coral_reef_tile.uasset" 727
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_5/Materials/coral_Reef.uasset" 728
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Sand_D.uasset" 729
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_Sand_N.uasset" 730
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 731
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 732
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/Materials/Landscape_Material.uasset" 733
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Exclusion.uasset" 734
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/Water1.uasset" 735
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/Water2.uasset" 736
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/Water3.uasset" 737
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/WaterLightFunction.uasset" 738
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_UnderwaterDistortion.uasset" 739
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Textures/T_TileNoise.uasset" 740
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Ocean/Materials/M_UnderwaterDistortion_Inst.uasset" 741
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 742
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/birds.uasset" 743
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/birds_Cue.uasset" 744
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/jungle.uasset" 745
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/jungle_Cue.uasset" 746
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/underwater.uasset" 747
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/underwater_Cue.uasset" 748
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/waves.uasset" 749
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Audio/waves_Cue.uasset" 750
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 751
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Atlas_Billboards_Normal_Tex.uasset" 752
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Atlas_Billboards_Tex.uasset" 753
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat.uasset" 754
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Atlas_Normal_Tex.uasset" 755
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Atlas_Tex.uasset" 756
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/T_BogMyrtleBtm_01_D.uasset" 757
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/T_BogMyrtleBtm_01_N.uasset" 758
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat.uasset" 759
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01.uasset" 760
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01_Atlas_Billboards_Normal_Tex.uasset" 761
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01_Atlas_Billboards_Tex.uasset" 762
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard.uasset" 763
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset" 764
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02_Atlas_Billboards_Normal_Tex.uasset" 765
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02_Atlas_Billboards_Tex.uasset" 766
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/MI_BogMyrtleBush_02_Billboard.uasset" 767
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.uasset" 768
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 769
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalToWorldData.uasset" 770
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 771
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter/PivotPainter_PerObjectData.uasset" 772
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Wind.uasset" 773
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter/PivotPainter_PerObjectFoliageData.uasset" 774
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Material/WorldCoords-XY.uasset" 775
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/T_Fern_01_D.uasset" 776
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/T_Fern_01_N.uasset" 777
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/T_Ice_Noise_N.uasset" 778
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/T_TilingNoise06_N.uasset" 779
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Textures/T_Water_N.uasset" 780
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Textures/T_Water_Screen_Noise_Soft2.uasset" 781
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/M_Fern_01.uasset" 782
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset" 783
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Textures/T_Water_Screen_Noise_Soft.uasset" 784
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst.uasset" 785
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset" 786
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset" 787
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 788
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_01_D.uasset" 789
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_02_M.uasset" 790
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_01.uasset" 791
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01.uasset" 792
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD1.uasset" 793
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD2.uasset" 794
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.uasset" 795
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 796
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 797
+"../../../Engine/Content/EngineResources/Black.uasset" 798
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Material/M_Photoscan_Master.uasset" 799
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/Boulder_05a/T_Boulder05_N.uasset" 800
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/Boulder_05a/T_Boulder05_D_CC_R.uasset" 801
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/Boulder_05a/MI_Boulder05a.uasset" 802
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a.uasset" 803
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock001/T_GroundRevealRock001a_N.uasset" 804
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock001/T_GroundRevealRock001a_D_CC_R.uasset" 805
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock001/MI_GroundRevealRock001a.uasset" 806
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001.uasset" 807
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock002/T_GroundRevealRock002_N.uasset" 808
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock002/T_GroundRevealRock002_D_CC_R.uasset" 809
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock002/MI_GroundRevealRock002.uasset" 810
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002.uasset" 811
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_Mat_red.uasset" 812
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/coral1.uasset" 813
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_blue.uasset" 814
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/coral2.uasset" 815
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_purple.uasset" 816
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/coral3.uasset" 817
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_green.uasset" 818
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/coral4.uasset" 819
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/Material/coral_uv_yellow.uasset" 820
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/coral_1/coral5.uasset" 821
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv.uasset" 822
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Mat.uasset" 823
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/coral_2.uasset" 824
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_blue.uasset" 825
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/coral_3.uasset" 826
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Green.uasset" 827
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/coral_4.uasset" 828
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Orange.uasset" 829
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/coral_5.uasset" 830
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Purple.uasset" 831
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/coral_6.uasset" 832
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/Materials/coral2_uv_Red.uasset" 833
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_2/coral_7.uasset" 834
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/materials/uv_coral_3.uasset" 835
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/materials/uv_coral_3_Mat.uasset" 836
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/coral_3.uasset" 837
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/materials/uv_coral_3_Green.uasset" 838
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/coral_4.uasset" 839
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/materials/uv_coral_3_Mat_Inst1.uasset" 840
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_3/coral_5.uasset" 841
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/Material/coral_4_uv.uasset" 842
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/Material/coral_4_uv_Mat.uasset" 843
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/coral_4.uasset" 844
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/Material/coral_4_uv_Teal.uasset" 845
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/coral_5.uasset" 846
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/Material/coral_4_uv_purple.uasset" 847
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/coral/Coral_4/coral_6.uasset" 848
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/FOGLIA-3.uasset" 849
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/blue.uasset" 850
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/FOGLIA-2.uasset" 851
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/broun.uasset" 852
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/FOGLIA-1.uasset" 853
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/green.uasset" 854
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/TRONCO.uasset" 855
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/st_wood.uasset" 856
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Palm_tree/palm_tree.uasset" 857
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 858
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_SoftLight.uasset" 859
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Set_dress/skull1.uasset" 860
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Set_dress/Material_001.uasset" 861
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/Set_dress/Skull.uasset" 862
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/shell/shell_basecolour.uasset" 863
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/shell/shell_normal.uasset" 864
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/shell/shell_roughness.uasset" 865
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/shell/shell_basecolour_Mat.uasset" 866
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/MY_ASSETS/MESH/shell/seashell.uasset" 867
+"../../../../../../Users/oiboo/Documents/Unreal Projects/Trtl_Simulator/Content/Maps/TRTL_MAPS/Trtl_underwater.umap" 868
+"../../../Engine/Content/Maps/Entry.umap" 869
