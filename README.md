@@ -9,7 +9,7 @@ Ue4.19 --- Must be 4.19.2 for ocean plugin
 **GETTING STARTED**
    
     
-    [Download Unreal engine](https://www.unrealengine.com)
+   [Download Unreal engine](https://www.unrealengine.com)
     
    Download Version UE4.19 from the launcher
    
@@ -24,13 +24,13 @@ Ue4.19 --- Must be 4.19.2 for ocean plugin
   Unreal engine should start to build your project.
    
    
-    [Video walkthrough of the project](https://www.youtube.com/watch?v=uy381ddwrX0&list=PLcgJXhEksRRKeoDOZR2d-w8NN4vp7U1iI)
+   [Video walkthrough of the project](https://www.youtube.com/watch?v=uy381ddwrX0&list=PLcgJXhEksRRKeoDOZR2d-w8NN4vp7U1iI)
 
 **Plugins (included in repo)**
 
-      [Community Ocean Plugin](https://github.com/UE4-OceanProject/OceanProject)
+   [Community Ocean Plugin](https://github.com/UE4-OceanProject/OceanProject)
  
-      [Loading bar Plugin](https://github.com/ue4plugins/LoadingScreen)
+   [Loading bar Plugin](https://github.com/ue4plugins/LoadingScreen)
  
  
  
