@@ -9,17 +9,17 @@ Ue4.19 --- Must be 4.19.2 for ocean plugin
 **GETTING STARTED**
    
     
-   1.[Download Unreal engine](https://www.unrealengine.com)
+      1. Download Unreal engine: https://www.unrealengine.com
     
-   2.Download Version UE4.19 from the launcher
+      2. Download Version UE4.19 from the launcher
    
-   3.Clone this repo -- Uasset files are stored using Git lfs
+      3. Clone this repo -- Uasset files are stored using Git lfs
    
-   4.Right click TRTL_Simulator.uproject and select Switch Unreal engine version.  set to 4.19.2
+      4. Right click TRTL_Simulator.uproject and select Switch Unreal engine version.  set to 4.19.2
    
-   5.Open Trtl_simulator  
+      5. Open Trtl_simulator  
    
-   6.click YES to load 'Loading Screen plugin' 
+      6. Click YES to load 'Loading Screen plugin' 
    
   Unreal engine should start to build your project.
    
